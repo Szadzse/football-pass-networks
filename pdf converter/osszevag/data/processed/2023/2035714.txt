@@ -1,0 +1,69 @@
+First team:
+1 1 0 1 1 3 2 14 17 0 1 0 0 0 0
+0 3 1 4 8 0 2 3 0 2 4 5 1 3 3
+1 0 1 0 2 5 0 2 3 1 0 0 0 0 0
+0 7 1 4 2 8 1 3 7 4 2 0 1 3 2
+0 1 0 3 6 5 4 0 2 2 0 0 0 0 0
+2 4 3 4 5 1 4 5 1 0 0 0 0 0 0
+0 1 3 9 2 0 4 2 9 5 2 0 0 1 2
+0 10 3 7 2 1 3 10 8 2 2 0 1 0 3
+11 10 1 2 4 9 2 5 6 0 1 1 0 1 0
+14 0 2 11 1 0 8 10 11 6 2 0 1 1 0
+0 1 0 4 4 0 1 2 0 0 0 0 0 0 1
+0 6 0 0 0 0 2 1 1 2 0 0 1 2 1
+0 0 0 1 0 0 0 0 0 0 0 0 2 1 0
+0 0 0 1 0 0 0 2 0 0 0 2 1 0 2
+0 2 0 2 0 0 4 0 1 0 0 1 1 0 0
+0 0 0 1 0 0 1 2 0 1 0 1 1 1 0
+Second team:
+1 2 0 0 0 0 1 8 3 0 1 0 0 0 0
+0 4 2 6 9 6 6 3 6 6 0 0 0 0 3
+1 1 3 6 1 0 6 0 4 0 1 0 0 2 3
+0 2 1 1 1 3 5 0 1 1 1 0 0 0 1
+0 3 4 2 2 2 3 1 0 1 1 0 1 2 2
+0 5 3 4 1 4 1 2 2 1 0 0 0 0 1
+0 6 0 2 3 7 1 2 4 2 0 0 0 0 1
+0 9 6 4 7 1 0 7 2 1 0 1 3 2 0
+2 5 1 0 3 2 0 13 6 1 1 3 1 1 0
+3 5 2 1 1 6 7 2 10 0 0 0 0 0 0
+0 3 0 0 0 3 1 0 1 0 0 0 0 0 0
+1 0 0 0 3 0 0 0 1 0 0 0 0 1 0
+0 0 2 0 2 0 0 0 0 0 0 0 1 0 0
+1 0 1 1 1 0 0 1 1 0 0 0 2 0 1
+0 0 2 0 1 0 0 2 0 0 0 0 0 1 0
+0 1 2 2 2 1 0 1 0 1 0 1 0 1 0
+Players:
+First team players:
+Dominik Livaković
+Sadegh Moharrami
+Arijan Ademi
+Luka Ivanušec
+Bruno Petković
+Stefan Ristovski
+Robert Ljubičić
+Josip Mišić
+Josip Šutalo
+Dino Perić
+Mislav Oršić
+Martin Baturina
+Petar Bočkaj
+Josip Drmić
+Marko Bulat
+Dario Špikić
+Second team players:
+Ciprian Tătăruşanu
+Ismaël Bennacer
+Sandro Tonali
+Olivier Giroud
+Ante Rebić
+Rafael Leão
+Theo Hernández
+Pierre Kalulu
+Simon Kjær
+Matteo Gabbia
+Charles De Ketelaere
+Fodé Ballo-Touré
+Divock Origi
+Junior Messias
+Tommaso Pobega
+Rade Krunić

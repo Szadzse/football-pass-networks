@@ -1,0 +1,52 @@
+Second team:
+1 3 5 8 9 10 14 19 20 21 28 4 35 97 PC PA PC PA PC PA PC PA %
+8 8 2 0 0 0 2 3 1 2 2 0 0
+6 5 2 3 3 3 1 11 2 2 2 0 0
+5 8 0 0 2 3 0 0 5 9 0 0 0
+0 4 1 2 1 3 0 9 4 0 0 0 0
+0 1 2 2 2 0 0 5 1 0 0 0 0
+0 0 0 2 1 1 1 5 2 2 3 0 1
+0 3 0 5 0 2 0 4 0 0 2 0 0
+0 0 0 1 2 1 2 2 2 0 1 0 1
+1 2 0 7 2 5 7 0 2 1 3 1 0
+0 8 6 1 1 4 2 2 3 4 5 0 3
+1 2 5 0 0 4 0 1 0 7 6 2 2
+0 1 2 1 0 5 2 2 1 8 6 1 1
+0 0 0 0 0 0 0 0 0 0 0 4 0
+0 0 0 0 0 0 0 0 1 2 1 0 0
+Players:
+First team players:
+39 3 5 6 7 10 21 33 52 77 98 14 17 93 PC PA PC PA PC PA PC PA %
+Long Medium Short Total
+TP
+To
+From
+José Sá
+Ruben Semedo
+Andreas Bouchalakis
+Guilherme
+Miguel Ángel Guerrero
+Daniel Podence
+Omar Elabdellaoui
+Giorgos Masouras
+Yassine Meriah
+Kostas Tsimikas
+Mathieu Valbuena
+Mohamed Camara
+Vasilis Torosidis
+Lazar Ranđelović
+Second team players:
+Matvei Safonov
+Jón Gudni Fjóluson
+Uroš Spajić
+Cristian Ramirez
+Rémy Cabella
+Wanderson
+Younes Namli
+Marcus Berg
+Tonny Vilhena
+Ruslan Kambolov
+Sergei Petrov
+Kristoffer Olsson
+Ivan Ignatyev
+Magomed Suleymanov

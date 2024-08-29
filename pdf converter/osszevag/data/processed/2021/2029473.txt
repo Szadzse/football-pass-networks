@@ -1,0 +1,63 @@
+First team:
+2 4 8 2 1 1 0 2 1 1 1 1 2 1
+3 9 0 0 0 1 2 1 3 1 1 2 3 2
+2 6 0 2 0 4 1 0 1 2 0 0 2 1
+0 0 1 4 1 0 0 5 8 1 0 0 4 4
+0 0 0 2 0 2 2 1 1 1 0 0 0 0
+0 0 0 3 0 1 2 2 0 0 0 0 0 0
+2 10 3 1 2 0 2 1 3 3 1 0 1 1
+6 0 0 2 1 1 5 4 3 0 0 0 2 2
+2 1 1 9 3 1 0 6 2 0 0 0 1 1
+0 0 2 9 2 2 4 3 8 3 0 0 1 2
+0 0 2 2 0 0 1 0 0 0 0 0 0 0
+0 2 0 0 0 0 0 1 0 0 0 1 0 0
+0 1 0 1 0 0 0 0 0 1 0 1 0 1
+0 2 1 2 0 0 2 1 2 2 0 0 0 1
+0 3 1 2 1 0 2 0 2 0 0 0 0 1
+Second team:
+4 6 2 0 0 0 4 1 0 1 0 0 0
+4 20 11 6 5 7 15 0 5 4 0 1 0
+5 9 25 5 1 4 1 6 7 11 1 0 2
+1 12 13 25 6 12 15 6 17 11 3 5 3
+0 1 11 16 11 7 23 0 7 10 3 0 1
+0 6 2 6 5 2 10 1 4 4 0 0 0
+1 5 9 14 4 4 11 0 1 6 0 1 1
+2 12 1 10 23 11 9 2 11 0 0 2 0
+0 0 0 6 0 1 1 0 2 6 0 0 0
+0 3 2 11 8 4 7 5 5 8 1 0 0
+0 3 7 21 9 0 3 0 7 9 1 0 1
+0 1 0 2 0 0 0 0 0 0 1 0 1
+0 1 0 0 2 0 0 6 0 0 0 0 0
+0 0 2 1 1 0 0 0 0 0 3 0 0
+Players:
+First team players:
+Pierluigi Gollini
+Rafael Tolói
+Joakim Mæhle
+Robin Gosens
+Luis Muriel
+Remo Freuler
+Marten de Roon
+Cristian Romero
+Berat Djimsiti
+Matteo Pessina
+Duván Zapata
+José Luis Palomino
+Ruslan Malinovskyi
+Josip Iličić
+Mario Pašalić
+Second team players:
+Thibaut Courtois
+Raphaël Varane
+Nacho
+Toni Kroos
+Luka Modrić
+Marco Asensio
+Casemiro
+Lucas Vázquez
+Vinícius Júnior
+Isco
+Ferland Mendy
+Mariano Díaz
+Sergio Arribas
+Hugo Duro

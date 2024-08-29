@@ -1,0 +1,65 @@
+First team:
+2 0 0 4 0 1 1 5 0 0 2 0 0 1 0
+1 1 4 5 1 6 1 4 4 2 1 2 0 2 3
+0 4 2 1 1 4 3 3 2 0 3 1 0 2 2
+0 1 1 3 3 0 1 3 0 1 1 0 0 0 0
+0 2 3 5 2 0 2 1 1 0 2 0 0 0 0
+1 1 0 3 1 0 1 1 0 1 0 0 0 0 0
+5 7 2 0 0 1 1 7 3 0 0 0 0 0 2
+0 3 1 2 2 3 5 4 1 0 0 0 0 0 0
+9 2 3 1 3 1 2 9 0 1 5 1 1 5 0
+0 5 0 0 1 0 1 0 0 1 4 0 0 0 3
+0 0 0 0 0 1 1 0 0 2 0 0 0 0 0
+0 0 2 2 2 0 0 0 0 6 0 1 4 2 3
+0 3 2 0 0 0 0 0 2 1 0 0 1 0 1
+0 0 0 2 0 0 0 0 0 0 0 4 0 0 0
+4 7 0 0 1 0 0 0 2 0 0 1 0 3 1
+0 3 1 0 1 0 1 0 0 1 0 3 3 0 0
+Second team:
+0 0 0 0 10 0 0 0 1 0 0 0 0
+0 1 3 5 0 4 3 2 3 0 0 0 0
+0 1 4 3 3 4 1 2 0 12 0 0 0
+0 2 2 4 0 2 1 1 0 2 0 0 0
+0 8 3 2 2 5 2 2 4 3 1 0 1
+3 1 4 0 5 2 5 12 5 14 1 0 0
+0 1 1 6 0 0 1 0 0 3 0 0 1
+0 2 8 0 4 9 1 1 3 5 0 0 0
+1 3 3 2 6 13 0 2 5 3 0 0 0
+3 4 1 1 3 2 1 3 6 0 2 0 1
+0 0 9 1 1 6 6 9 0 0 0 0 0
+0 1 0 2 0 2 0 0 0 2 3 0 0
+0 0 0 0 0 0 2 0 0 0 0 0 0
+0 0 0 0 1 0 0 1 0 0 0 0 0
+Players:
+First team players:
+Kristijan Kahlina
+Anton Nedyalkov
+Claude Gonçalves
+Kiril Despodov
+Pieros Sotiriou
+Jordan Ikoko
+Olivier Verdon
+Stéphane Badji
+Igor Plastun
+Wanderson
+Cauly Souza
+Cicinho
+Alex Santana
+Mavis Tchibota
+Josué Sá
+Dominic Yankov
+Second team players:
+Johan Dahlin
+Søren Rieks
+Oscar Lewicki
+Antonio Čolak
+Anders Christiansen
+Anel Ahmedhodzic
+Veljko Birmančević
+Bonke Innocent
+Lasse Nielsen
+Franz Brorsson
+Jo Inge Berget
+Ismael Diawara
+Erdal Rakip
+Malik Abubakari

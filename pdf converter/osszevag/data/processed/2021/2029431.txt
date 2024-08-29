@@ -1,0 +1,69 @@
+First team:
+4 4 0 1 0 0 2 1 1 0 1 0 0 0 0
+7 9 2 5 1 1 11 1 6 2 1 0 0 0 2
+3 8 1 4 4 4 15 0 2 12 1 0 0 0 1
+0 0 0 1 1 3 5 2 2 1 1 0 0 0 0
+1 3 5 4 3 3 9 1 6 4 0 0 0 0 1
+0 0 2 0 2 2 8 0 2 8 0 0 0 0 0
+1 2 3 5 5 4 12 0 7 7 0 0 0 0 2
+1 8 13 2 10 6 13 4 4 11 3 1 1 0 0
+0 1 0 0 2 1 6 1 11 0 2 0 0 0 1
+1 7 0 4 5 0 2 3 14 1 1 0 1 2 0
+0 4 12 2 0 9 13 5 0 0 0 0 0 0 2
+0 1 0 1 0 0 0 1 3 0 0 0 0 1 1
+0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+0 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 1 0 1 0 2 0 0 0
+0 1 1 1 0 0 1 0 0 0 2 0 0 0 0
+Second team:
+1 8 2 0 5 0 0 0 1 1 0 3 0 0 0
+1 10 0 4 8 15 1 4 12 8 4 0 3 0 1
+2 8 1 3 12 6 9 1 12 0 3 2 0 0 2
+0 1 0 2 1 0 0 0 3 0 0 0 0 0 0
+0 1 2 1 0 2 6 1 4 2 0 0 1 0 3
+10 4 10 1 1 4 0 1 3 15 0 0 0 0 1
+1 9 5 1 3 5 2 6 6 7 0 0 0 0 0
+0 5 3 3 4 2 2 3 4 3 0 0 0 0 0
+0 3 1 0 4 2 4 1 0 7 0 0 0 0 0
+1 8 8 3 5 1 2 6 0 0 2 0 0 0 2
+2 9 0 1 0 11 10 1 8 0 1 0 5 0 0
+0 2 1 0 0 1 1 0 0 1 3 1 4 0 1
+0 2 0 0 1 0 0 0 1 1 0 1 1 0 0
+0 3 0 0 2 1 0 0 0 1 2 2 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 2 3 0 4 0 0 0 0 1 1 0 0 0 0
+Players:
+First team players:
+Alfred Gomis
+Damien Da Silva
+Gerzino Nyamsi
+Sehrou Guirassy
+Eduardo Camavinga
+James Lea Siliki
+Benjamin Bourigeaud
+Steven Nzonzi
+Jéremy Doku
+Hamari Traoré
+Adrien Truffert
+Clément Grenier
+M'Baye Niang
+Faitout Maouassa
+Yann Gboho
+Romain Del Castillo
+Second team players:
+Edouard Mendy
+Jorginho
+Thiago Silva
+Tammy Abraham
+Timo Werner
+Kurt Zouma
+Mateo Kovačić
+Mason Mount
+Callum Hudson-Odoi
+Ben Chilwell
+César Azpilicueta
+N'Golo Kanté
+Olivier Giroud
+Hakim Ziyech
+Reece James
+Kai Havertz

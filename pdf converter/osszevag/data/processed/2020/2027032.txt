@@ -1,0 +1,52 @@
+Second team:
+1 9 14 15 16 17 18 28 30 39 43 20 25 37 PC PA PC PA PC PA PC PA %
+13 0 2 2 2 3 2 4 26 0 1 0 2
+18 3 1 4 3 2 8 6 12 2 0 0 0
+0 0 2 0 1 1 1 3 0 0 0 0 0
+0 0 2 2 1 3 4 0 4 2 0 0 1
+0 0 1 4 1 0 2 1 0 5 0 0 0
+3 4 2 1 3 3 2 3 3 5 0 1 1
+1 2 1 3 3 5 4 0 9 4 0 1 5
+3 5 3 5 5 6 3 6 5 1 0 0 2
+2 8 3 0 0 2 1 6 1 1 2 2 0
+11 19 0 4 1 4 14 4 6 0 0 0 2
+0 0 0 2 2 2 4 1 0 0 0 0 0
+0 0 0 0 0 0 0 1 0 0 0 1 1
+0 0 0 0 0 2 0 0 2 0 0 0 1
+0 0 0 0 2 1 2 0 1 1 0 0 0
+Players:
+First team players:
+28 6 7 8 10 17 21 25 31 33 77 18 23 27 PC PA PC PA PC PA PC PA %
+Long Medium Short Total
+TP
+To
+From
+Cican Stankovic
+Hee-Chan Hwang
+Dominik Szoboszlai
+André Ramalho
+Zlatko Junuzović
+Andreas Ulmer
+Takumi Minamino
+Antoine Bernede
+Erling Braut Håland
+Maximilian Wöber
+Rasmus Kristensen
+Patson Daka
+Patrick Farkas
+Masaya Okugawa
+Second team players:
+Gaetan Coucke
+Sebastien Dewaest
+Junya Ito
+Bryan Heynen
+Ally Mbwana Samatta
+Patrik Hrošovský
+Jere Uronen
+Sander Berge
+Joakim Mæhle
+Jhon Lucumi
+Dieumerci Ndongala
+Paul Onuachu
+Ianis Hagi
+Théo Bongonda

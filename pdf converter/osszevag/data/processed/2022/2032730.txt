@@ -1,0 +1,67 @@
+First team:
+7 1 0 0 0 6 0 2 0 1 0 0 0 0
+3 6 0 2 3 17 19 1 5 4 0 0 0 2
+0 6 5 2 5 3 1 5 8 3 0 0 0 0
+0 0 2 5 5 0 2 4 3 0 2 0 1 1
+0 4 3 1 6 1 8 1 1 1 0 0 1 0
+1 3 3 2 5 2 9 4 3 3 0 1 2 1
+5 18 6 1 1 3 8 7 21 6 0 1 0 3
+0 11 2 2 11 10 5 0 0 12 1 0 0 0
+1 1 11 3 0 1 7 1 14 1 0 0 0 0
+0 2 5 7 2 2 18 0 17 2 0 0 0 5
+0 0 6 6 2 10 3 5 3 4 0 0 1 3
+0 1 0 1 0 0 0 0 0 0 0 0 0 0
+0 2 0 1 0 2 0 0 0 0 0 0 0 0
+0 0 0 3 0 3 0 0 0 0 0 0 0 1
+0 2 0 0 1 1 1 0 0 2 2 0 3 1
+Second team:
+10 21 2 5 0 0 0 0 2 0 1 0 0 2 0
+4 5 2 4 8 0 2 0 1 0 0 0 0 0 0
+17 4 13 7 5 1 3 0 7 0 5 0 0 4 0
+2 2 3 17 2 2 4 4 4 5 1 0 1 2 4
+3 6 7 12 4 1 4 1 7 4 1 1 2 3 3
+0 0 0 1 4 0 0 0 0 4 0 1 2 3 1
+0 0 0 3 0 0 1 0 1 1 0 0 0 0 0
+0 2 2 3 1 0 1 4 4 2 0 0 0 0 0
+0 0 1 2 0 0 2 0 2 0 0 0 0 0 0
+0 1 10 2 3 0 0 3 6 0 1 1 0 0 0
+1 1 0 3 2 1 0 1 1 0 0 2 0 0 0
+0 0 7 4 2 0 0 0 2 3 0 0 0 0 3
+1 0 0 1 1 0 0 0 1 0 0 0 1 0 1
+0 0 0 0 1 3 0 0 0 0 0 0 1 0 0
+2 0 2 4 3 1 0 0 0 0 0 0 0 1 0
+0 0 2 1 0 0 0 0 1 0 0 7 0 0 0
+Players:
+First team players:
+David de Gea
+Victor Lindelöf
+Paul Pogba
+Cristiano Ronaldo
+Mason Greenwood
+Bruno Fernandes
+Raphaël Varane
+Diogo Dalot
+Jadon Sancho
+Alex Telles
+Scott McTominay
+Jesse Lingard
+Fred
+Edinson Cavani
+Nemanja Matić
+Second team players:
+Gerónimo Rulli
+Raúl Albiol
+Pau Torres
+Daniel Parejo
+Étienne Capoue
+Juan Foyth
+Paco Alcácer
+Manu Trigueros
+Arnaut Danjuma
+Alberto Moreno
+Yeremi Pino
+Pervis Estupiñán
+Boulaye Dia
+Rubén Peña
+Aissa Mandi
+Moi Gómez

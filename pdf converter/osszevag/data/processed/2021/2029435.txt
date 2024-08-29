@@ -1,0 +1,68 @@
+First team:
+0 0 0 4 3 0 3 3 1 2 2 0 0 1 0
+0 1 4 2 0 2 0 0 7 1 1 0 0 1 1
+0 1 2 0 3 2 6 4 2 7 0 0 1 3 1
+0 1 3 1 2 5 1 2 1 4 1 0 0 2 0
+0 3 1 1 3 3 5 0 2 0 1 0 0 0 0
+5 4 3 2 1 3 4 4 2 0 3 0 0 4 1
+2 2 1 4 0 1 6 1 0 0 0 0 0 0 0
+1 1 4 0 10 5 1 1 3 0 0 0 0 0 0
+3 0 1 2 2 6 0 1 2 6 1 0 2 1 0
+0 1 6 1 3 1 4 1 0 2 3 0 0 1 0
+3 4 2 7 2 1 0 0 5 1 0 0 2 1 1
+0 0 1 1 1 6 0 0 5 1 1 1 0 0 0
+0 0 0 0 0 0 0 0 2 0 1 0 1 1 0
+0 0 1 0 0 0 0 0 0 0 3 1 0 0 1
+0 2 0 0 0 1 0 0 0 1 2 3 1 0 1
+0 2 1 0 0 0 0 0 0 3 2 0 0 0 0
+Second team:
+1 5 1 0 0 4 1 1 9 7 0 0 1 0 0
+3 1 5 3 2 0 7 18 0 10 5 1 0 1 4
+1 4 10 0 15 15 9 3 24 14 1 6 9 2 0
+0 7 20 4 5 13 5 9 2 6 0 0 0 0 0
+0 2 0 2 2 0 5 3 2 0 1 1 0 0 0
+0 3 11 3 1 3 9 6 9 6 0 0 0 0 0
+3 2 13 12 1 8 6 0 9 21 0 0 0 0 0
+1 7 10 2 3 12 4 6 5 2 0 0 0 0 0
+0 17 3 6 1 6 0 3 0 3 1 1 0 1 0
+1 0 24 1 0 11 10 7 0 8 1 2 7 3 0
+7 12 8 13 3 3 18 2 12 4 1 0 1 3 0
+0 2 1 0 1 0 0 1 4 1 0 3 2 2 0
+1 1 1 0 0 0 0 0 1 4 0 2 8 2 0
+0 0 7 0 2 0 0 0 0 5 0 4 6 2 0
+0 6 1 0 0 0 0 0 1 2 2 2 1 1 0
+0 4 0 0 0 0 0 0 0 0 0 0 0 0 0
+Players:
+First team players:
+Georgiy Bushchan
+Benjamin Verbič
+Volodymyr Shepeliev
+Mykola Shaparenko
+Carlos De Pena
+Vitaliy Mykolenko
+Denys Garmash
+Oleksandr Karavaev
+Illia Zabarnyi
+Vitaliy Buyalskiy
+Tomasz Kędziora
+Denys Popov
+Tudor Băluţă
+Bogdan Lednev
+Oleksandr Andriyevskiy
+Vladyslav Supryaha
+Marc-André ter Stegen
+Sergiño Dest
+Carles Aleñá
+Miralem Pjanić
+Martin Braithwaite
+Philippe Coutinho
+Clément Lenglet
+Pedri
+Francisco Trincão
+Junior Firpo
+Oscar Mingueza
+Antoine Griezmann
+Ricard Puig
+Jordi Alba
+Matheus Fernandes
+Konrad De La Fuente

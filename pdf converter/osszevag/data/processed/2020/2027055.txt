@@ -1,0 +1,52 @@
+Second team:
+1 4 5 6 7 12 14 16 19 21 33 8 10 30 PC PA PC PA PC PA PC PA %
+9 4 0 1 1 12 1 5 1 0 0 1 0
+20 9 1 0 10 2 5 20 3 1 0 1 1
+9 11 0 0 6 18 8 4 4 3 0 0 0
+0 1 1 2 2 4 5 1 4 9 0 0 0
+0 0 0 0 3 0 2 0 3 0 0 1 0
+3 8 5 8 0 13 16 7 11 0 0 3 1
+9 7 17 9 1 10 11 0 0 18 0 5 0
+0 9 7 7 1 8 11 5 11 3 0 5 0
+0 6 0 1 2 12 0 3 10 2 1 3 0
+0 9 1 2 0 8 2 4 10 5 0 3 0
+0 0 2 7 1 0 12 4 0 2 0 2 0
+0 1 0 0 0 0 0 1 1 1 0 1 0
+0 3 0 0 0 1 7 2 1 3 3 3 1
+0 1 2 0 0 0 0 0 0 1 0 0 0
+Players:
+First team players:
+1 4 5 10 13 15 18 20 23 29 31 7 11 22 PC PA PC PA PC PA PC PA %
+Long Medium Short Total
+TP
+To
+From
+Wojciech Szczęsny
+Matthijs de Ligt
+Miralem Pjanić
+Sami Khedira
+Cristiano Ronaldo
+Alex Sandro
+Blaise Matuidi
+Juan Cuadrado
+Leonardo Bonucci
+Gonzalo Higuaín
+Federico Bernardeschi
+Aaron Ramsey
+Paulo Dybala
+Rodrigo Bentancur
+Second team players:
+Lukas Hradecky
+Jonathan Tah
+Sven Bender
+Kerem Demirbay
+Lucas Alario
+Julian Baumgartlinger
+Wendell
+Charles Aránguiz
+Mitchell Weiser
+Kai Havertz
+Kevin Volland
+Paulinho
+Nadiem Amiri
+Daley Sinkgraven

@@ -1,0 +1,67 @@
+First team:
+0 2 0 1 0 0 2 0 1 4 0 0 1 4 0
+0 2 7 1 4 6 0 2 1 8 0 11 4 2 0
+4 4 8 2 12 0 3 4 2 12 1 6 0 10 4
+0 2 4 4 8 5 4 18 3 6 0 3 0 6 0
+0 0 2 4 5 2 0 0 0 0 0 4 0 0 0
+0 10 8 4 4 0 2 6 11 9 1 3 1 17 0
+0 1 0 2 0 3 2 3 3 3 0 1 0 0 0
+0 0 0 4 0 1 5 15 0 10 0 0 0 0 0
+2 4 6 11 3 4 6 5 1 4 0 1 0 1 0
+1 8 3 1 0 10 0 0 1 4 0 0 0 0 0
+3 11 18 4 3 13 0 16 2 5 0 7 1 5 2
+0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+1 7 4 5 0 3 1 0 2 0 6 0 1 6 2
+0 1 0 0 0 0 0 0 0 0 1 0 0 0 0
+0 10 9 4 0 18 0 0 0 0 2 0 3 0 1
+0 1 1 0 1 1 0 0 0 0 5 0 2 0 0
+Second team:
+3 1 2 2 0 3 5 1 0 3 0 0 1 2
+1 2 3 4 0 3 2 1 0 11 0 0 2 0
+0 1 2 2 1 0 0 0 0 1 0 0 0 1
+0 3 0 6 3 5 3 4 1 2 7 3 1 4
+0 6 1 5 2 2 2 1 0 9 3 1 2 1
+0 0 0 4 1 3 0 2 0 0 1 3 1 0
+5 6 0 2 4 2 0 1 0 1 4 0 0 1
+0 1 0 7 6 3 0 4 0 1 0 0 2 1
+0 2 0 2 2 0 2 5 0 4 0 0 0 2
+0 0 0 0 0 0 1 2 0 0 0 0 0 0
+1 4 2 6 7 0 3 3 1 1 2 2 1 0
+2 4 0 1 4 7 1 1 0 0 0 0 3 0
+1 0 0 4 1 1 0 2 0 0 2 2 0 0
+0 1 0 2 1 1 1 1 2 0 4 0 1 0
+0 0 0 1 0 2 1 2 1 0 0 0 0 0
+Players:
+First team players:
+Tomáš Vaclík
+Lucas Ocampos
+Nemanja Gudelj
+Joan Jordán
+Luuk de Jong
+Ivan Rakitić
+Munir
+Jules Koundé
+Jesús Navas
+Sergio Escudero
+Diego Carlos
+Karim Rekik
+Óscar Rodríguez
+Youssef En-Nesyri
+Marcos Acuña
+Fernando
+Second team players:
+Matvei Safonov
+Aleksandr Martynovich
+Cristian Ramírez
+Yuri Gazinski
+Kristoffer Olsson
+Yevgeni Chernov
+Kaio
+Marcus Berg
+Daniil Utkin
+Leon Sabua
+Magomed Suleymanov
+Egor Sorokin
+Wanderson
+Viktor Claesson
+Eduard Spertsyan

@@ -1,0 +1,64 @@
+First team:
+0 3 3 1 0 4 1 1 12 4 0 0 1 0 1
+0 2 1 2 0 0 1 3 7 2 0 0 0 0 1
+1 1 0 5 0 10 2 4 4 4 0 0 1 0 4
+6 1 2 2 1 3 2 3 16 13 0 2 3 0 5
+0 3 1 0 1 1 0 4 0 0 0 1 2 0 0
+0 0 1 0 0 0 1 0 0 0 0 0 0 0 0
+4 1 2 1 2 1 3 5 6 6 6 3 1 1 0
+0 0 2 3 0 0 1 0 3 3 0 0 0 0 0
+0 3 8 7 4 2 3 1 5 4 1 1 5 1 5
+2 7 4 22 2 1 9 2 12 3 2 1 2 0 2
+5 2 6 8 1 0 7 1 4 4 0 0 0 0 0
+0 0 0 0 2 0 2 0 2 0 0 1 5 0 0
+1 0 0 1 0 0 1 0 4 0 0 1 1 1 0
+0 1 1 0 2 0 2 0 2 0 0 2 0 0 2
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0
+2 1 1 3 0 0 0 0 6 5 0 0 0 2 0
+Second team:
+4 9 6 0 5 0 1 0 2 0 3 0 0
+3 13 1 7 5 22 17 6 2 2 4 1 1
+5 15 10 1 11 7 3 0 1 0 3 0 0
+6 0 3 6 11 3 2 0 10 0 4 0 0
+0 5 1 6 10 7 4 6 5 7 2 0 1
+2 10 7 5 13 21 10 9 18 3 16 3 12
+1 23 5 4 4 18 19 7 8 2 7 2 2
+0 15 6 1 5 9 15 5 3 1 9 2 1
+0 3 1 2 6 7 5 10 3 0 0 0 0
+3 1 1 5 14 18 3 1 2 0 3 1 6
+0 0 0 0 4 2 1 2 1 1 0 0 0
+0 5 5 4 0 14 11 7 0 2 0 1 2
+0 2 0 0 0 3 1 2 0 1 0 0 0
+0 0 0 1 2 9 3 1 0 6 0 0 0
+Players:
+First team players:
+Samir Handanovič
+Achraf Hakimi
+Roberto Gagliardini
+Stefan de Vrij
+Romelu Lukaku
+Lautaro Martínez
+Ashley Young
+Arturo Vidal
+Nicolò Barella
+Milan Škriniar
+Alessandro Bastoni
+Alexis Sánchez
+Stefano Sensi
+Ivan Perišić
+Christian Eriksen
+Danilo D'Ambrosio
+Thibaut Courtois
+Dani Carvajal
+Raphaël Varane
+Nacho
+Eden Hazard
+Toni Kroos
+Luka Modrić
+Lucas Vázquez
+Martin Ødegaard
+Ferland Mendy
+Mariano Díaz
+Casemiro
+Vinícius Júnior
+Rodrygo

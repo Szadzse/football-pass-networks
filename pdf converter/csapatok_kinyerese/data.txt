@@ -1,0 +1,354 @@
+#	Team	M.	W	D	L	goals	Dif	Pt.
+1	Real Madrid	Real Madrid	474	283	81	110	1042:520	522	930
+2	Bayern München	Bayern München	376	224	75	77	790:371	419	747
+3	FC Barcelona	FC Barcelona	331	190	76	65	650:337	313	646
+4	Manchester United	Manchester United	283	152	68	63	508:281	227	524
+5	Juventus	Juventus	297	151	68	78	468:297	171	521
+6	AC Milan	AC Milan	259	125	67	67	422:248	174	440
+7	Liverpool FC	Liverpool FC	230	128	48	54	432:218	214	432
+8	SL Benfica	SL Benfica	260	115	60	85	426:308	118	405
+9	FC Porto	FC Porto	257	115	58	84	371:292	79	403
+10	Chelsea FC	Chelsea FC	197	101	52	44	334:181	153	355
+11	AFC Ajax	AFC Ajax	215	100	50	65	344:239	105	350
+12	Inter	Inter	194	93	50	51	273:198	75	329
+13	Arsenal FC	Arsenal FC	187	88	42	57	302:215	87	306
+14	Atlético Madrid	Atlético Madrid	156	73	42	41	217:149	68	261
+15	Borussia Dortmund	Borussia Dortmund	164	76	33	55	277:210	67	261
+16	Paris Saint-Germain	Paris Saint-Germain	139	74	27	38	273:162	111	249
+17	Dinamo Kiev	Dinamo Kiev	186	65	41	80	225:247	-22	236
+18	Manchester City	Manchester City	116	63	24	29	238:131	107	213
+19	Olympique Lyon	Olympique Lyon	136	58	36	42	214:165	49	210
+20	Celtic FC	Celtic FC	150	60	27	63	208:204	4	207
+21	PSV Eindhoven	PSV Eindhoven	163	56	39	68	201:208	-7	207
+22	RSC Anderlecht	RSC Anderlecht	163	53	35	75	213:277	-64	194
+23	Valencia CF	Valencia CF	116	48	34	34	167:123	44	178
+24	Olympiakos Piraeus	Olympiakos Piraeus	156	47	28	81	172:261	-89	169
+25	Galatasaray	Galatasaray	155	42	39	74	160:254	-94	165
+26	Rangers FC	Rangers FC	131	43	31	57	170:214	-44	160
+27	Crvena Zvezda	Crvena Zvezda	98	48	14	36	195:150	45	158
+28	AS Roma	AS Roma	109	41	26	42	147:157	-10	149
+29	Olympique Marseille	Olympique Marseille	110	43	18	49	159:138	21	147
+30	Panathinaikos	Panathinaikos	127	36	37	54	136:175	-39	145
+31	Bayer Leverkusen	Bayer Leverkusen	107	37	25	45	146:173	-27	136
+32	Shakhtar Donetsk	Shakhtar Donetsk	112	36	26	50	148:193	-45	134
+33	AS Monaco	AS Monaco	98	35	21	42	144:137	7	126
+34	Spartak Moskva	Spartak Moskva	104	34	23	47	144:167	-23	125
+35	AC Sparta Praha	AC Sparta Praha	102	33	24	45	128:152	-24	123
+36	CSKA Sofia	CSKA Sofia	86	34	15	37	122:129	-7	117
+37	Club Brugge KV	Club Brugge KV	97	31	22	44	113:142	-29	115
+38	Feyenoord	Feyenoord	79	30	22	27	131:102	29	112
+39	FC Schalke 04	FC Schalke 04	73	29	17	27	104:110	-6	104
+40	FC Basel	FC Basel	82	29	15	38	111:147	-36	102
+41	IFK Göteborg	IFK Göteborg	70	30	10	30	115:108	7	100
+42	Sevilla FC	Sevilla FC	66	27	18	21	97:94	3	99
+43	Sporting CP	Sporting CP	92	28	15	49	123:163	-40	99
+44	FCSB	FCSB	87	25	22	40	102:126	-24	97
+45	SSC Napoli	SSC Napoli	58	27	15	16	100:69	31	96
+46	Tottenham Hotspur	Tottenham Hotspur	61	27	13	21	110:87	23	94
+47	CSKA Moskva	CSKA Moskva	86	23	20	43	96:139	-43	89
+48	Deportivo La Coruña	Deportivo La Coruña	58	23	15	20	74:79	-5	84
+49	Rosenborg BK	Rosenborg BK	90	21	21	48	109:172	-63	84
+50	Werder Bremen	Werder Bremen	60	23	14	23	95:98	-3	83
+51	Girondins Bordeaux	Girondins Bordeaux	50	21	16	13	54:54	0	79
+52	Austria Wien	Austria Wien	63	22	13	28	90:99	-9	79
+53	Standard Liège	Standard Liège	46	24	5	17	79:56	23	77
+54	Rapid Wien	Rapid Wien	61	24	5	32	93:98	-5	77
+55	Zenit St. Petersburg	Zenit St. Petersburg	64	21	14	29	75:90	-15	77
+56	FK Viagem Příbram	FK Viagem Příbram	45	22	10	13	75:58	17	76
+57	Bor. Mönchengladbach	Bor. Mönchengladbach	51	19	16	16	98:68	30	73
+58	Lazio Roma	Lazio Roma	52	19	15	18	79:68	11	72
+59	Dinamo Bucureşti	Dinamo Bucureşti	54	21	9	24	82:83	-1	72
+60	Fenerbahçe	Fenerbahçe	73	20	10	43	72:140	-68	70
+61	Leeds United	Leeds United	38	20	6	12	73:40	33	66
+62	ACF Fiorentina	ACF Fiorentina	39	18	12	9	53:45	8	66
+63	Górnik Zabrze	Górnik Zabrze	43	20	6	17	69:65	4	66
+64	Beşiktaş	Beşiktaş	70	17	13	40	61:138	-77	64
+65	AS Saint-Étienne	AS Saint-Étienne	39	19	6	14	49:41	8	63
+66	Hamburger SV	Hamburger SV	39	18	6	15	69:55	14	60
+67	Újpest FC	Újpest FC	40	17	8	15	65:63	2	59
+68	RB Leipzig	RB Leipzig	38	18	5	15	66:70	-4	59
+69	Malmö FF	Malmö FF	53	14	11	28	44:101	-57	53
+70	FC Nantes	FC Nantes	40	12	14	14	52:54	-2	50
+71	BFC Dynamo	BFC Dynamo	36	14	7	15	51:51	0	49
+72	Villarreal CF	Villarreal CF	40	11	15	14	43:50	-7	48
+73	Hajduk Split	Hajduk Split	26	14	5	7	46:28	18	47
+74	Legia Warszawa	Legia Warszawa	32	14	5	13	43:51	-8	47
+75	Spartak Trnava	Spartak Trnava	24	13	7	4	44:20	24	46
+76	Partizan	Partizan	45	13	7	25	60:73	-13	46
+77	AEK Athen	AEK Athen	56	9	19	28	57:99	-42	46
+78	Stade Reims	Stade Reims	24	14	3	7	63:30	33	45
+79	Budapesti Vasas	Budapesti Vasas	27	12	6	9	62:34	28	42
+80	Dynamo Dresden	Dynamo Dresden	30	12	6	12	48:44	4	42
+81	Lille OSC	Lille OSC	46	9	15	22	38:57	-19	42
+82	Nottingham Forest	Nottingham Forest	20	12	4	4	32:14	18	40
+83	FC Zürich	FC Zürich	33	12	3	18	41:63	-22	39
+84	FC København	FC København	36	9	10	17	28:52	-24	37
+85	Ferencvárosi TC	Ferencvárosi TC	32	10	6	16	54:73	-19	36
+86	Grasshopper Club Zürich	Grasshopper Club Zürich	38	9	8	21	54:66	-12	35
+87	BSC Young Boys	BSC Young Boys	29	9	8	12	39:55	-16	35
+88	Lokomotiv Moskva	Lokomotiv Moskva	44	9	8	27	39:68	-29	35
+89	Omonia Nikosia	Omonia Nikosia	36	11	2	23	44:87	-43	35
+90	RB Salzburg	RB Salzburg	32	8	10	14	45:59	-14	34
+91	VfL Wolfsburg	VfL Wolfsburg	22	10	3	9	29:29	0	33
+92	Budapest Honvéd	Budapest Honvéd	26	10	3	13	33:49	-16	33
+93	Dinamo Zagreb	Dinamo Zagreb	54	8	9	37	41:114	-73	33
+94	Athletic Bilbao	Athletic Bilbao	24	8	7	9	32:32	0	31
+95	VfB Stuttgart	VfB Stuttgart	27	8	7	12	33:42	-9	31
+96	Aston Villa	Aston Villa	15	9	3	3	24:10	14	30
+97	Atalanta	Atalanta	23	8	6	9	40:43	-3	30
+98	1. FC Köln	1. FC Köln	17	7	8	2	27:19	8	29
+99	Trabzonspor	Trabzonspor	20	7	5	8	15:24	-9	26
+100	Linfield FC	Linfield FC	40	5	11	23	45:84	-39	26
+101	APOEL Nikosia	APOEL Nikosia	40	5	11	24	26:81	-55	26
+102	Eintracht Frankfurt	Eintracht Frankfurt	15	7	3	5	30:28	2	24
+103	Real Sociedad	Real Sociedad	24	6	6	12	20:29	-9	24
+104	FC Wacker Innsbruck	FC Wacker Innsbruck	22	7	3	12	34:46	-12	24
+105	OGC Nice	OGC Nice	14	7	2	5	29:25	4	23
+106	Slovan Bratislava	Slovan Bratislava	16	7	2	7	21:25	-4	23
+107	Newcastle United	Newcastle United	18	7	2	9	23:29	-6	23
+108	Sturm Graz	Sturm Graz	24	7	2	15	20:53	-33	23
+109	Győri ETO FC	Győri ETO FC	14	7	1	6	27:30	-3	22
+Servette FC	Servette FC	17	6	4	7	27:30	-3	22
+111	Aarhus GF	Aarhus GF	18	6	4	8	22:25	-3	22
+112	1. FC Frankfurt (Oder)	1. FC Frankfurt (Oder)	21	7	1	12	23:32	-9	22
+113	Lech Poznań	Lech Poznań	16	7	1	8	22:31	-9	22
+114	AJ Auxerre	AJ Auxerre	20	7	1	12	16:30	-14	22
+115	Jeunesse Esch	Jeunesse Esch	39	6	3	30	42:132	-90	21
+116	Sampdoria	Sampdoria	11	6	2	3	21:10	11	20
+117	Derby County	Derby County	12	6	2	4	18:12	6	20
+118	1. FC Kaiserslautern	1. FC Kaiserslautern	12	6	2	4	18:16	2	20
+119	Brøndby IF	Brøndby IF	20	5	5	10	22:35	-13	20
+120	HJK Helsinki	HJK Helsinki	28	6	2	20	25:71	-46	20
+121	Erzgebirge Aue	Erzgebirge Aue	16	5	4	7	26:23	3	19
+122	Aberdeen FC	Aberdeen FC	12	5	4	3	14:12	2	19
+123	Ruch Chorzów	Ruch Chorzów	14	5	4	5	20:25	-5	19
+124	BATE Borisov	BATE Borisov	30	4	7	19	21:73	-52	19
+125	Dnipro Dnipropetrovsk	Dnipro Dnipropetrovsk	12	5	3	4	15:13	2	18
+126	Baník Ostrava	Baník Ostrava	14	5	3	6	18:23	-5	18
+127	CFR Cluj	CFR Cluj	18	5	3	10	20:28	-8	18
+128	Boavista	Boavista	18	4	6	8	14:25	-11	18
+129	Leicester City	Leicester City	10	5	2	3	11:10	1	17
+130	Widzew Łódź	Widzew Łódź	16	5	2	9	27:30	-3	17
+131	Levski Sofia	Levski Sofia	28	4	5	19	34:60	-26	17
+132	Dundee United	Dundee United	8	5	1	2	14:5	9	16
+133	Málaga CF	Málaga CF	10	4	4	2	16:9	7	16
+134	MTK Budapest	MTK Budapest	10	5	1	4	26:22	4	16
+135	Wiener Sport-Club	Wiener Sport-Club	12	4	4	4	21:18	3	16
+136	1. FC Nürnberg	1. FC Nürnberg	8	5	1	2	16:14	2	16
+137	Vojvodina	Vojvodina	9	5	1	3	10:9	1	16
+138	RC Lens	RC Lens	12	4	4	4	16:17	-1	16
+139	FC Kuusysi (old)	FC Kuusysi (old)	14	5	1	8	12:25	-13	16
+140	FC Ararat	FC Ararat	6	5	0	1	14:5	9	15
+141	Dundee FC	Dundee FC	8	5	0	3	20:14	6	15
+142	FC Carl Zeiss Jena	FC Carl Zeiss Jena	8	5	0	3	12:11	1	15
+143	Glentoran FC	Glentoran FC	20	3	6	11	18:37	-19	15
+144	Viktoria Plzeň	Viktoria Plzeň	24	4	3	17	22:68	-46	15
+145	FC Universitatea Craiova	FC Universitatea Craiova	12	4	2	6	14:17	-3	14
+146	Lillestrøm SK	Lillestrøm SK	12	3	5	4	10:15	-5	14
+147	AFC DWS	AFC DWS	6	4	1	1	13:4	9	13
+148	Vejle BK	Vejle BK	12	3	4	5	13:22	-9	13
+149	Sliema Wanderers	Sliema Wanderers	14	4	1	9	10:35	-25	13
+150	Argeș Pitești	Argeș Pitești	8	4	0	4	13:10	3	12
+151	Dinamo Minsk	Dinamo Minsk	8	3	3	2	16:14	2	12
+152	Neuchâtel Xamax FCS	Neuchâtel Xamax FCS	8	4	0	4	14:13	1	12
+153	Åtvidabergs FF	Åtvidabergs FF	8	4	0	4	12:12	0	12
+154	Rubin Kazan	Rubin Kazan	12	2	6	4	6:11	-5	12
+155	KF Tiranë	KF Tiranë	16	3	3	10	14:24	-10	12
+156	Sporting Braga	Sporting Braga	12	4	0	8	12:24	-12	12
+157	Esbjerg fB	Esbjerg fB	12	3	3	6	11:28	-17	12
+158	Everton FC	Everton FC	8	2	5	1	12:6	6	11
+159	AZ Alkmaar	AZ Alkmaar	10	2	5	3	12:14	-2	11
+160	IFK Norrköping	IFK Norrköping	12	2	5	5	14:20	-6	11
+161	FK Partizani	FK Partizani	14	3	2	9	7:26	-19	11
+162	Hibernian FC	Hibernian FC	6	3	1	2	9:5	4	10
+163	RC Strasbourg	RC Strasbourg	6	3	1	2	8:6	2	10
+164	IFK Malmö	IFK Malmö	6	3	1	2	7:7	0	10
+165	KAA Gent	KAA Gent	8	3	1	4	10:11	-1	10
+166	Lokomotiv Sofia	Lokomotiv Sofia	8	3	1	4	19:21	-2	10
+167	Hertha BSC	Hertha BSC	12	2	4	6	10:18	-8	10
+168	Aalborg BK	Aalborg BK	12	2	4	6	14:26	-12	10
+169	Maccabi Haifa	Maccabi Haifa	18	3	1	14	19:41	-22	10
+170	NK Maribor	NK Maribor	18	1	7	10	9:41	-32	10
+171	Ipswich Town	Ipswich Town	4	3	0	1	16:5	11	9
+172	TSV 1860 München	TSV 1860 München	4	3	0	1	12:4	8	9
+173	KV Mechelen	KV Mechelen	6	2	3	1	9:3	6	9
+174	Bohemians Praha 1905	Bohemians Praha 1905	4	3	0	1	7:2	5	9
+175	1. FC Magdeburg	1. FC Magdeburg	8	3	0	5	15:11	4	9
+176	Sparta Rotterdam	Sparta Rotterdam	6	3	0	3	12:11	1	9
+177	Parma Calcio 1913	Parma Calcio 1913	6	2	3	1	6:5	1	9
+178	Celta Vigo	Celta Vigo	8	2	3	3	9:11	-2	9
+179	Polonia Bytom	Polonia Bytom	6	3	0	3	8:12	-4	9
+180	RCD Mallorca	RCD Mallorca	6	3	0	3	4:9	-5	9
+181	Waterford FC	Waterford FC	12	3	0	9	14:35	-21	9
+182	ÍA Akranes	ÍA Akranes	16	2	3	11	15:39	-24	9
+183	Dundalk FC	Dundalk FC	16	2	3	11	10:40	-30	9
+184	Valur Reykjavík	Valur Reykjavík	16	2	3	11	9:50	-41	9
+185	KSK Beveren	KSK Beveren	6	2	2	2	11:8	3	8
+186	FC Unirea	FC Unirea	6	2	2	2	8:8	0	8
+187	Wisła Kraków	Wisła Kraków	6	2	2	2	10:11	-1	8
+188	Wolverhampton Wanderers	Wolverhampton Wanderers	8	2	2	4	12:16	-4	8
+189	KB København	KB København	11	2	2	7	14:25	-11	8
+190	FC Reipas Lahti (old)	FC Reipas Lahti (old)	8	2	2	4	8:30	-22	8
+191	KRC Genk	KRC Genk	18	0	8	10	9:45	-36	8
+192	Inter Bratislava	Inter Bratislava	4	2	1	1	8:6	2	7
+193	Lyngby BK	Lyngby BK	6	2	1	3	7:5	2	7
+194	Zorya Lugansk	Zorya Lugansk	4	2	1	1	3:1	2	7
+195	FC Sion	FC Sion	4	2	1	1	9:8	1	7
+196	Hellas Verona	Hellas Verona	4	2	1	1	5:4	1	7
+197	MFK Vítkovice	MFK Vítkovice	4	2	1	1	4:5	-1	7
+198	Udinese Calcio	Udinese Calcio	6	2	1	3	10:12	-2	7
+199	B 1903 København	B 1903 København	8	2	1	5	7:11	-4	7
+FC Sheriff	FC Sheriff	6	2	1	3	7:11	-4	7
+201	Real Betis	Real Betis	6	2	1	3	3:7	-4	7
+202	Hvidovre IF	Hvidovre IF	8	1	4	3	13:19	-6	7
+203	Petrolul Ploieşti	Petrolul Ploieşti	8	2	1	5	8:15	-7	7
+204	Djurgårdens IF	Djurgårdens IF	8	2	1	5	7:16	-9	7
+205	Slavia Praha	Slavia Praha	12	1	4	7	9:26	-17	7
+206	PFC Ludogorets Razgrad	PFC Ludogorets Razgrad	12	1	4	7	11:29	-18	7
+207	Zbrojovka Brno	Zbrojovka Brno	4	1	3	0	7:5	2	6
+208	B 1913 Odense	B 1913 Odense	4	2	0	2	15:14	1	6
+209	Burnley FC	Burnley FC	4	2	0	2	8:8	0	6
+210	Cagliari Calcio	Cagliari Calcio	4	2	0	2	5:5	0	6
+Eintracht Braunschweig	Eintracht Braunschweig	5	2	0	3	5:5	0	6
+212	FC Twente	FC Twente	6	1	3	2	9:11	-2	6
+213	RWDM Brussels FC	RWDM Brussels FC	4	2	0	2	6:9	-3	6
+214	FC Petržalka	FC Petržalka	6	1	3	2	5:9	-4	6
+215	Anorthosis Famagusta	Anorthosis Famagusta	8	1	3	4	9:14	-5	6
+216	Lyn Oslo	Lyn Oslo	10	2	0	8	14:41	-27	6
+217	Torino FC	Torino FC	4	1	2	1	4:4	0	5
+218	FK Sarajevo	FK Sarajevo	6	1	2	3	8:9	-1	5
+219	Hapoel Tel Aviv	Hapoel Tel Aviv	6	1	2	3	7:10	-3	5
+220	Gwardia Warszawa	Gwardia Warszawa	5	1	2	2	6:9	-3	5
+221	Kilmarnock FC	Kilmarnock FC	4	1	2	1	4:7	-3	5
+222	FC Hradec Králové	FC Hradec Králové	4	1	2	1	2:5	-3	5
+223	FC La Chaux-de-Fonds	FC La Chaux-de-Fonds	4	1	2	1	5:9	-4	5
+224	FK Krasnodar	FK Krasnodar	6	1	2	3	6:11	-5	5
+225	FK Rostov	FK Rostov	6	1	2	3	6:12	-6	5
+226	Helsingborgs IF	Helsingborgs IF	6	1	2	3	6:14	-8	5
+227	Bohemian FC	Bohemian FC	6	1	2	3	4:13	-9	5
+228	Viking FK	Viking FK	14	1	2	11	11:29	-18	5
+229	Hibernians FC	Hibernians FC	12	1	2	9	8:36	-28	5
+230	Rapid Bucureşti	Rapid Bucureşti	4	1	1	2	3:3	0	4
+Spartak Plovdiv	Spartak Plovdiv	4	1	1	2	3:3	0	4
+232	Bologna FC	Bologna FC	3	1	1	1	2:2	0	4
+233	AB Gladsaxe	AB Gladsaxe	4	1	1	2	4:5	-1	4
+234	Halmstads BK	Halmstads BK	4	1	1	2	4:6	-2	4
+235	Blackburn Rovers	Blackburn Rovers	6	1	1	4	5:8	-3	4
+236	FC Thun Berner Oberland	FC Thun Berner Oberland	6	1	1	4	4:9	-5	4
+237	FK Astana	FK Astana	6	0	4	2	5:11	-6	4
+238	sc Heerenveen	sc Heerenveen	6	1	1	4	3:9	-6	4
+239	PAOK Saloniki	PAOK Saloniki	6	1	1	4	5:12	-7	4
+240	Östers IF	Östers IF	8	1	1	6	3:14	-11	4
+241	AIK Solna	AIK Solna	8	1	1	6	5:18	-13	4
+242	Fredrikstad FK	Fredrikstad FK	8	1	1	6	6:22	-16	4
+243	Shamrock Rovers	Shamrock Rovers	14	0	4	10	7:28	-21	4
+244	Maccabi Tel Aviv	Maccabi Tel Aviv	14	1	1	12	5:32	-27	4
+245	AE Lárissa	AE Lárissa	2	1	0	1	3:3	0	3
+246	Dinamo Tbilisi	Dinamo Tbilisi	4	1	0	3	7:8	-1	3
+247	FK Vllaznia	FK Vllaznia	2	1	0	1	3:4	-1	3
+248	Torpedo Moskva	Torpedo Moskva	4	0	3	1	0:1	-1	3
+249	1. FC Saarbrücken	1. FC Saarbrücken	2	1	0	1	5:7	-2	3
+250	Zagłębie Lubin	Zagłębie Lubin	2	1	0	1	2:4	-2	3
+251	Hansa Rostock	Hansa Rostock	2	1	0	1	1:3	-2	3
+KA Akureyri	KA Akureyri	2	1	0	1	1:3	-2	3
+253	1899 Hoffenheim	1899 Hoffenheim	6	0	3	3	11:14	-3	3
+254	Botev Plovdiv	Botev Plovdiv	4	1	0	3	5:8	-3	3
+255	Apollon Limassol	Apollon Limassol	4	1	0	3	4:7	-3	3
+Szombierki Bytom	Szombierki Bytom	4	1	0	3	4:7	-3	3
+257	FC Differdange 03	FC Differdange 03	2	1	0	1	3:7	-4	3
+258	ŁKS Łódź	ŁKS Łódź	2	1	0	1	2:6	-4	3
+259	Heart of Midlothian	Heart of Midlothian	4	1	0	3	4:11	-7	3
+260	Molde FK	Molde FK	6	1	0	5	6:14	-8	3
+261	İstanbul Başakşehir	İstanbul Başakşehir	6	1	0	5	7:18	-11	3
+262	Derry City	Derry City	6	1	0	5	9:24	-15	3
+263	TPS Turku	TPS Turku	8	1	0	7	4:23	-19	3
+264	Haka Valkeakoski	Haka Valkeakoski	8	1	0	7	7:28	-21	3
+265	Drumcondra Dublin	Drumcondra Dublin	6	1	0	5	3:25	-22	3
+266	Hamrun Spartans	Hamrun Spartans	8	1	0	7	2:26	-24	3
+267	Spora Luxemburg	Spora Luxemburg	7	1	0	6	7:36	-29	3
+268	Valletta FC	Valletta FC	10	1	0	9	5:43	-38	3
+269	Floriana FC	Floriana FC	14	0	3	11	3:51	-48	3
+270	Flamurtari Vlorë	Flamurtari Vlorë	2	0	2	0	1:1	0	2
+271	Montpellier HSC	Montpellier HSC	6	0	2	4	6:12	-6	2
+272	Athlone Town	Athlone Town	4	0	2	2	7:14	-7	2
+273	Willem II	Willem II	6	0	2	4	7:15	-8	2
+274	Vålerenga IF	Vålerenga IF	6	0	2	4	5:14	-9	2
+275	FC Midtjylland	FC Midtjylland	6	0	2	4	4:13	-9	2
+276	Qarabağ FK	Qarabağ FK	6	0	2	4	2:14	-12	2
+277	UTA Arad	UTA Arad	6	0	2	4	3:17	-14	2
+278	Fram Reykjavík	Fram Reykjavík	8	0	2	6	4:28	-24	2
+279	Csepel SC	Csepel SC	2	0	1	1	3:4	-1	1
+280	ÍBV Vestmannaeyjar	ÍBV Vestmannaeyjar	2	0	1	1	1:2	-1	1
+Skeid Fotball	Skeid Fotball	2	0	1	1	1:2	-1	1
+282	FC Aarau	FC Aarau	2	0	1	1	0:1	-1	1
+FC Admira Wacker	FC Admira Wacker	2	0	1	1	0:1	-1	1
+284	Etar Veliko Tarnovo	Etar Veliko Tarnovo	2	0	1	1	1:3	-2	1
+PFC Beroe	PFC Beroe	2	0	1	1	1:3	-2	1
+286	Śląsk Wrocław	Śląsk Wrocław	2	0	1	1	2:5	-3	1
+287	Glenavon FC	Glenavon FC	2	0	1	1	0:3	-3	1
+288	Rot-Weiss Essen	Rot-Weiss Essen	2	0	1	1	1:5	-4	1
+St Patrick's Athletic	St Patrick's Athletic	2	0	1	1	1:5	-4	1
+290	FC Lausanne-Sport	FC Lausanne-Sport	2	0	1	1	0:4	-4	1
+291	Lisburn Distillery	Lisburn Distillery	2	0	1	1	3:8	-5	1
+292	FC Blau Weiß Linz	FC Blau Weiß Linz	2	0	1	1	0:5	-5	1
+293	Stade Rennes	Stade Rennes	6	0	1	5	3:11	-8	1
+294	Dinamo Tiranë	Dinamo Tiranë	6	0	1	5	1:11	-10	1
+295	Skonto FC	Skonto FC	4	0	1	3	0:11	-11	1
+296	Lierse SK	Lierse SK	8	0	1	7	3:17	-14	1
+297	Bursaspor	Bursaspor	6	0	1	5	2:16	-14	1
+298	B 1909 Odense	B 1909 Odense	6	0	1	5	6:21	-15	1
+299	Odense BK	Odense BK	6	0	1	5	4:20	-16	1
+300	Progrès Niedercorn	Progrès Niedercorn	4	0	1	3	1:17	-16	1
+301	Kuopion PS	Kuopion PS	6	0	1	5	4:21	-17	1
+302	OPS Oulu	OPS Oulu	4	0	1	3	2:19	-17	1
+303	FC Nordsjælland	FC Nordsjælland	6	0	1	5	4:22	-18	1
+304	Aris Bonnevoie	Aris Bonnevoie	6	0	1	5	6:25	-19	1
+305	Olympiakos Nikosia	Olympiakos Nikosia	6	0	1	5	4:36	-32	1
+306	FC Utrecht	FC Utrecht	2	0	0	2	4:6	-2	0
+307	Cork City	Cork City	2	0	0	2	1:3	-2	0
+308	Roda JC Kerkrade	Roda JC Kerkrade	2	0	0	2	3:6	-3	0
+309	Chemnitzer FC	Chemnitzer FC	2	0	0	2	2:5	-3	0
+LASK	LASK	2	0	0	2	2:5	-3	0
+311	Željezničar Sarajevo	Željezničar Sarajevo	2	0	0	2	1:4	-3	0
+312	Örgryte IS	Örgryte IS	2	0	0	2	3:7	-4	0
+313	FKS Stal Mielec	FKS Stal Mielec	4	0	0	4	2:6	-4	0
+SG Sachsen Leipzig	SG Sachsen Leipzig	2	0	0	2	2:6	-4	0
+315	Moss FK	Moss FK	2	0	0	2	0:4	-4	0
+316	Beitar Jerusalem	Beitar Jerusalem	2	0	0	2	2:7	-5	0
+Pezoporikos Larnaca	Pezoporikos Larnaca	2	0	0	2	2:7	-5	0
+Tavriya Simferopol (1958-2014)	Tavriya Simferopol (1958-2014)	2	0	0	2	2:7	-5	0
+319	Ilves Tampere	Ilves Tampere	2	0	0	2	1:6	-5	0
+320	FC Luzern	FC Luzern	2	0	0	2	0:5	-5	0
+321	Cork Celtic	Cork Celtic	2	0	0	2	1:7	-6	0
+Cork Hibernians	Cork Hibernians	2	0	0	2	1:7	-6	0
+Køge BK	Køge BK	2	0	0	2	1:7	-6	0
+Shelbourne FC	Shelbourne FC	2	0	0	2	1:7	-6	0
+Strømsgodset IF	Strømsgodset IF	2	0	0	2	1:7	-6	0
+326	KF Elbasani	KF Elbasani	2	0	0	2	0:6	-6	0
+Sligo Rovers	Sligo Rovers	2	0	0	2	0:6	-6	0
+Vardar Skopje	Vardar Skopje	2	0	0	2	0:6	-6	0
+329	Helsingfors IFK	Helsingfors IFK	4	0	0	4	5:12	-7	0
+330	Ards FC	Ards FC	2	0	0	2	3:10	-7	0
+331	Royal Antwerp FC	Royal Antwerp FC	2	0	0	2	1:8	-7	0
+332	HPS Helsinki	HPS Helsinki	2	0	0	2	0:7	-7	0
+Olimpija Ljubljana	Olimpija Ljubljana	2	0	0	2	0:7	-7	0
+334	Víkingur Reykjavík	Víkingur Reykjavík	6	0	0	6	5:13	-8	0
+335	Oţelul Galaţi	Oţelul Galaţi	6	0	0	6	3:11	-8	0
+336	IK Start	IK Start	4	0	0	4	2:10	-8	0
+337	FK Žalgiris	FK Žalgiris	2	0	0	2	0:8	-8	0
+338	Coleraine FC	Coleraine FC	2	0	0	2	1:11	-10	0
+339	FC VSS Košice	FC VSS Košice	6	0	0	6	2:13	-11	0
+340	Limerick FC (old)	Limerick FC (old)	4	0	0	4	4:16	-12	0
+341	AEL Limassol	AEL Limassol	2	0	0	2	0:12	-12	0
+342	Debreceni VSC	Debreceni VSC	6	0	0	6	5:19	-14	0
+343	KPV Kokkola	KPV Kokkola	2	0	0	2	0:14	-14	0
+344	MŠK Žilina	MŠK Žilina	6	0	0	6	3:19	-16	0
+345	EPA Larnaca	EPA Larnaca	2	0	0	2	0:16	-16	0
+346	Crusaders FC	Crusaders FC	4	0	0	4	0:19	-19	0
+347	Portadown FC	Portadown FC	4	0	0	4	1:21	-20	0
+348	Rabat Ajax	Rabat Ajax	4	0	0	4	0:20	-20	0
+349	KR Reykjavík	KR Reykjavík	6	0	0	6	7:35	-28	0
+350	Keflavík ÍF	Keflavík ÍF	8	0	0	8	5:35	-30	0
+351	Stade Dudelange	Stade Dudelange	4	0	0	4	1:32	-31	0
+352	Union Luxembourg	Union Luxembourg	8	0	0	8	2:39	-37	0
+353	Avenir Beggen	Avenir Beggen	8	0	0	8	0:44	-44	0

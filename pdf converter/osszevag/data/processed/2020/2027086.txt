@@ -1,0 +1,52 @@
+Second team:
+13 5 6 10 11 14 16 18 19 22 24 9 15 20 PC PA PC PA PC PA PC PA %
+3 0 0 2 2 0 3 5 1 2 0 0 0
+1 0 7 2 1 6 2 0 5 12 0 0 3
+4 0 6 1 1 0 3 2 5 0 0 0 0
+6 6 6 0 0 1 1 0 6 1 0 0 1
+0 0 0 0 2 3 0 2 4 0 1 0 1
+0 0 0 0 3 1 1 3 3 1 0 0 0
+0 3 1 2 3 1 1 3 2 2 0 0 0
+1 1 3 0 2 1 2 8 6 0 0 1 2
+0 0 0 1 1 5 4 10 6 0 0 0 1
+1 7 6 7 1 2 1 14 2 6 1 1 3
+0 7 0 1 2 0 5 0 0 6 0 0 1
+0 0 0 0 1 0 0 0 0 0 3 0 1
+0 1 0 0 0 0 0 1 0 0 0 0 0
+0 0 0 0 0 0 0 1 1 4 2 4 0
+Players:
+First team players:
+16 4 5 6 7 9 12 17 21 24 29 11 14 18 PC PA PC PA PC PA PC PA %
+Long Medium Short Total
+TP
+To
+From
+Jasper Cillessen
+Gabriel
+Geoffrey Kondogbia
+Daniel Parejo
+Denis Cheryshev
+José Gayà
+Kang-in Lee
+Daniel Wass
+Rodrigo
+Maxi Gómez
+Ezequiel Garay
+Kevin Gameiro
+Manu Vallejo
+Ferrán Torres
+Second team players:
+Mike Maignan
+Gabriel
+Adama Soumaoro
+José Fonte
+Victor Osimhen
+Loïc Rémy
+Yusuf Yazıcı
+Zeki Çelik
+Benjamin André
+Boubakary Soumaré
+Domagoj Bradarić
+Luiz Araújo
+Jonathan Bamba
+Renato Sanches

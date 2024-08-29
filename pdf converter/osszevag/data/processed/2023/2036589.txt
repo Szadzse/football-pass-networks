@@ -1,0 +1,63 @@
+First team:
+0 1 2 2 1 3 5 3 14 10 2 0 1 0
+0 1 0 2 0 0 0 2 2 0 0 0 0 0
+0 1 0 4 1 3 1 1 0 2 0 0 1 0
+8 1 0 4 1 2 2 5 7 12 0 4 5 1
+0 1 4 5 3 5 4 5 6 12 0 5 3 1
+1 2 1 0 4 1 5 0 0 1 0 0 0 1
+0 2 2 0 2 0 0 6 8 0 1 2 4 1
+1 1 3 1 1 3 0 3 0 10 0 0 0 0
+3 3 3 3 4 1 7 1 3 0 1 0 3 1
+7 0 0 16 6 0 7 0 9 7 0 0 3 0
+11 1 1 11 9 1 3 10 2 4 0 4 3 2
+0 0 1 0 0 0 0 0 1 0 0 0 1 0
+0 0 1 0 7 3 1 0 0 0 1 0 2 2
+0 0 1 2 4 0 6 0 1 2 7 0 3 1
+0 0 2 0 0 0 2 0 0 0 0 0 2 1
+Second team:
+5 6 3 3 1 4 0 3 0 2 0 2 0
+11 3 5 0 4 0 0 3 3 4 0 1 0
+10 7 2 0 0 5 2 2 3 2 0 0 0
+2 5 1 2 2 5 0 7 4 5 1 5 0
+0 0 1 2 0 4 1 3 0 1 0 0 0
+0 4 0 2 3 1 0 0 2 3 0 4 0
+1 0 4 7 4 0 5 1 0 3 1 1 0
+0 0 0 5 2 1 1 2 0 2 0 0 0
+2 3 2 5 0 6 2 3 2 5 0 1 0
+0 5 0 1 0 3 0 1 2 3 0 2 0
+0 0 4 1 3 6 2 4 1 4 0 1 0
+0 0 1 0 0 0 1 0 0 0 0 0 0
+0 0 0 2 1 1 2 0 3 3 1 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0
+Players:
+First team players:
+André Onana
+Edin Džeko
+Lautaro Martínez
+Francesco Acerbi
+Hakan Çalhanoğlu
+Henrikh Mkhitaryan
+Nicolò Barella
+Federico Dimarco
+Matteo Darmian
+Milan Škriniar
+Alessandro Bastoni
+Denzel Dumfries
+Robin Gosens
+Marcelo Brozović
+Romelu Lukaku
+Second team players:
+Diogo Costa
+Pepe
+Iván Marcano
+Matheus Uribe
+Mehdi Taremi
+Pepê
+Zaidu
+Galeno
+Marko Grujić
+João Mário
+Otávio
+Wendell
+Evanilson
+Gonçalo Borges

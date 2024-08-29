@@ -1,0 +1,50 @@
+Second team:
+13 2 4 5 9 10 14 15 22 23 25 11 17 18 PC PA PC PA PC PA PC PA %
+2 5 0 3 4 1 0 4 1 1 0 4
+2 10 0 1 9 3 3 0 6 12 0 3
+2 9 2 5 16 8 5 10 6 4 3 9
+0 0 4 0 0 4 3 8 2 0 0 1
+2 0 3 0 10 0 3 5 0 4 0 0
+1 11 17 3 10 10 7 11 3 9 0 5
+0 2 5 6 1 7 3 6 10 0 2 0
+0 1 5 1 2 10 0 5 3 0 0 2
+0 0 10 8 3 6 9 6 1 1 4 11
+0 10 0 2 0 3 6 1 1 2 0 0
+8 7 3 0 2 8 1 0 1 0 0 9
+0 0 2 0 0 1 2 0 2 0 0 2
+8 1 11 0 0 9 2 2 10 0 4 1
+Players:
+First team players:
+31 2 8 9 14 16 17 20 22 26 30 7 25 PC PA PC PA PC PA PC PA %
+Long Medium Short Total
+TP
+To
+From
+Thibaut Courtois
+Dani Carvajal
+Sergio Ramos
+Raphaël Varane
+Karim Benzema
+Luka Modrić
+Casemiro
+Federico Valverde
+Isco
+Ferland Mendy
+Vinícius Júnior
+Gareth Bale
+Lucas Vázquez
+Luka Jović
+Second team players:
+Ederson
+Kyle Walker
+İlkay Gündoğan
+Gabriel Jesus
+Aymeric Laporte
+Rodri
+Kevin De Bruyne
+Bernardo Silva
+Benjamin Mendy
+Riyad Mahrez
+Nicolás Otamendi
+Raheem Sterling
+Fernandinho

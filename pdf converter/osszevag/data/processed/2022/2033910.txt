@@ -1,0 +1,65 @@
+First team:
+7 2 1 0 0 1 1 10 1 0 0 0 0
+6 6 2 2 8 12 8 25 0 2 0 0 0
+0 4 3 4 3 6 8 11 2 2 0 0 0
+0 0 1 13 2 2 8 7 0 5 0 0 0
+0 4 3 4 4 0 9 3 2 5 0 0 0
+0 3 6 1 1 16 2 1 2 7 0 0 0
+2 6 3 0 1 26 1 2 7 3 1 0 0
+2 3 4 7 15 2 0 22 6 3 0 1 0
+7 33 6 11 8 5 7 27 2 3 0 0 0
+0 1 2 4 3 3 2 1 1 0 0 0 1
+0 2 2 4 4 4 3 2 3 1 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 1 0 0 0 0 0 0 0 0
+Second team:
+3 2 11 1 0 0 1 6 1 0 0 0 0 0 0
+2 1 0 0 2 3 3 2 4 0 0 0 0 0 0
+3 0 3 3 0 2 3 2 0 3 0 0 0 0 1
+7 3 2 1 1 1 4 2 1 3 0 0 1 0 0
+0 2 1 0 0 0 0 0 1 0 0 0 0 0 0
+1 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+0 5 1 0 0 1 2 0 1 3 2 0 0 0 0
+1 2 3 3 1 0 2 4 4 0 1 1 0 0 0
+0 2 2 5 0 3 5 1 0 3 0 1 0 0 0
+0 4 2 2 0 1 1 3 1 1 0 0 0 0 0
+0 2 2 1 2 2 3 0 1 2 0 1 1 0 0
+1 1 0 0 1 0 3 0 1 0 1 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 1 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Players:
+First team players:
+André Onana
+Jurriën Timber
+Edson Álvarez
+Ryan Gravenberch
+Dušan Tadić
+Antony
+Noussair Mazraoui
+Daley Blind
+Lisandro Martínez
+Sébastien Haller
+Steven Berghuis
+Davy Klaassen
+Brian Brobbey
+Mohammed Kudus
+Second team players:
+Odisseas Vlachodimos
+Gilberto
+Alejandro Grimaldo
+Jan Vertonghen
+Everton
+Darwin Núñez
+Rafa Silva
+Julian Weigl
+Nicolás Otamendi
+Adel Taarabt
+Gonçalo Ramos
+Soualiho Meïté
+Roman Yaremchuk
+Diogo Gonçalves
+Valentino Lazaro
+Paulo Bernardo

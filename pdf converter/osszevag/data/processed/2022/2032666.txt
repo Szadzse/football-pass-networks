@@ -1,0 +1,69 @@
+First team:
+1 0 1 0 1 1 0 2 1 3 1 0 1 1 0
+1 0 0 1 0 1 1 0 4 3 0 0 0 0 0
+0 2 2 0 5 2 0 3 0 5 0 0 0 0 0
+0 3 6 2 3 7 1 3 1 2 4 1 0 0 1
+0 1 1 6 2 4 1 1 0 0 0 0 0 0 0
+0 1 1 2 2 1 0 1 1 1 0 0 0 0 0
+0 0 1 2 5 1 0 8 3 4 4 0 0 0 0
+2 1 2 2 1 1 1 2 1 2 0 0 0 0 0
+0 0 1 3 3 0 8 0 0 1 0 0 0 1 0
+1 0 1 3 4 0 6 0 0 0 0 0 0 0 0
+0 1 7 5 1 1 2 4 1 0 1 1 0 0 3
+4 0 2 3 0 0 1 2 2 0 3 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 3 0 0
+0 0 0 0 0 0 0 0 0 0 1 0 1 0 1
+1 0 0 0 0 0 0 0 0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0 0 0 2 2 0 1 0
+Second team:
+8 5 0 0 0 0 1 8 11 2 2 0 1 1 0
+4 2 2 4 5 0 6 16 12 13 4 1 1 0 0
+1 7 0 4 2 2 0 12 1 3 1 0 0 0 0
+0 2 1 2 3 4 7 1 4 6 0 0 0 0 0
+0 0 4 6 1 1 6 4 1 2 5 0 1 2 1
+0 1 3 0 1 0 2 6 0 0 0 0 0 0 0
+0 0 2 2 1 0 5 1 1 10 0 0 1 0 0
+0 6 3 4 9 0 4 4 4 17 7 5 2 0 1
+5 11 14 4 4 5 1 7 1 0 4 0 6 2 1
+11 14 2 3 1 2 3 4 2 22 3 3 0 0 1
+3 9 3 8 4 3 12 14 2 14 1 0 1 0 0
+0 3 1 0 2 1 2 10 5 2 3 2 3 1 0
+0 0 0 0 1 0 2 4 0 0 0 3 1 1 0
+0 1 0 0 3 0 1 1 4 1 2 1 0 1 0
+0 0 0 0 1 0 0 0 1 0 0 2 1 1 0
+0 0 0 0 1 0 0 1 0 0 0 0 0 0 0
+Players:
+First team players:
+Jan Oblak
+Geoffrey Kondogbia
+Rodrigo De Paul
+Koke
+João Félix
+Antoine Griezmann
+Thomas Lemar
+Felipe
+Yannick Carrasco
+Mario Hermoso
+Kieran Trippier
+José María Giménez
+Luis Suárez
+Ángel Correa
+Renan Lodi
+Marcos Llorente
+Second team players:
+Alisson Becker
+Virgil van Dijk
+James Milner
+Naby Keïta
+Roberto Firmino
+Sadio Mané
+Mohamed Salah
+Jordan Henderson
+Andy Robertson
+Joël Matip
+Trent Alexander-Arnold
+Fabinho
+Joe Gomez
+Alex Oxlade-Chamberlain
+Diogo Jota
+Neco Williams

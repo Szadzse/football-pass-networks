@@ -1,0 +1,52 @@
+Second team:
+1 4 5 7 10 11 16 17 22 27 44 9 20 31 PC PA PC PA PC PA PC PA %
+1 3 5 2 1 0 1 11 0 2 1 0 0
+2 1 1 1 4 3 1 0 1 4 0 1 1
+4 5 2 3 6 3 7 1 11 9 0 1 0
+0 1 4 0 1 0 1 0 2 5 5 0 0
+0 0 2 0 4 0 1 1 2 0 0 0 0
+0 1 5 0 2 1 4 3 5 3 1 0 0
+2 0 1 1 0 2 3 0 0 0 0 0 0
+0 2 2 0 3 5 7 0 3 0 0 0 0
+0 2 0 1 1 3 0 3 4 0 0 0 1
+0 6 4 4 3 2 4 0 2 6 2 3 0
+1 8 10 4 0 0 0 1 1 4 2 0 1
+1 0 1 1 1 0 2 0 1 4 1 1 2
+1 2 2 0 0 0 1 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0
+Players:
+First team players:
+41 3 5 6 7 11 15 17 22 27 44 4 14 20 PC PA PC PA PC PA PC PA %
+Long Medium Short Total
+TP
+To
+From
+Péter Gulácsi
+W illi Orban
+Dayot Upamecano
+Marcel Sabitzer
+Emil Forsberg
+Timo Werner
+Lukas Klostermann
+Ademola Lookman
+Nordi Mukiele
+Konrad Laimer
+Kevin Kampl
+Yussuf Poulsen
+Matheus Cunha
+Diego Demme
+Second team players:
+Mikhail Kerzhakov
+Douglas Santos
+Wílmar Barrios
+Branislav Ivanović
+Sardar Azmoun
+Sebastian Driussi
+Vyacheslav Karavaev
+Oleg Shatov
+Artem Dzyuba
+Magomed Ozdoev
+Yaroslav Rakits'kyy
+Yordan Osorio
+Daler Kuzyaev
+Róbert Mak

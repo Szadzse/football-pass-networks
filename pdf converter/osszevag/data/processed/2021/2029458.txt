@@ -1,0 +1,64 @@
+First team:
+1 2 0 5 1 0 1 0 0 3 9 0 0
+2 1 0 3 5 6 12 4 0 6 10 1 0
+1 0 7 7 2 2 4 0 8 0 3 8 0
+2 2 4 9 7 2 15 6 4 6 1 0 0
+3 1 14 12 2 0 9 0 4 10 14 1 0
+0 8 2 3 2 4 9 9 3 1 2 0 0
+0 1 0 0 0 2 1 3 2 0 1 0 1
+3 17 4 9 6 15 2 11 2 4 9 2 1
+0 3 2 2 2 5 0 11 4 0 1 0 0
+1 0 7 5 5 2 2 1 1 1 0 2 0
+1 7 2 8 10 0 0 3 2 0 0 0 0
+0 7 1 5 11 9 1 10 5 3 0 0 1
+0 0 4 0 1 1 1 2 2 2 0 0 0
+0 0 0 0 0 0 1 0 0 0 0 0 1
+Second team:
+5 13 2 14 0 0 3 1 1 1 0 0 0 1 0
+2 7 2 0 10 1 7 0 9 0 0 0 4 2 2
+18 8 7 14 5 3 7 1 2 1 0 0 2 4 0
+0 5 4 3 1 4 3 4 5 1 0 0 0 0 0
+13 4 14 5 0 1 8 10 0 2 2 0 1 3 0
+0 5 4 2 1 4 4 0 9 1 2 0 1 0 0
+0 2 3 4 1 6 3 4 2 1 0 0 0 0 0
+3 3 7 2 13 3 5 6 5 1 0 0 2 1 0
+2 0 1 0 9 1 5 4 0 3 1 1 1 1 1
+0 4 2 3 0 6 5 4 0 0 0 0 2 2 0
+0 0 0 0 1 3 1 1 0 2 0 0 0 1 0
+0 2 1 0 1 2 0 0 1 0 0 1 0 2 1
+0 0 0 0 0 0 0 0 0 0 0 2 0 0 0
+0 0 2 0 0 0 0 0 1 3 1 2 0 3 1
+0 3 5 0 3 2 0 1 2 0 1 0 0 3 2
+0 1 0 0 0 2 0 0 0 0 0 3 0 1 1
+Players:
+First team players:
+Zack Steffen
+Kyle Walker
+Nathan Aké
+İlkay Gündoğan
+Aymeric Laporte
+Bernardo Silva
+Ferran Torres
+Fernandinho
+Riyad Mahrez
+Phil Foden
+Eric García
+John Stones
+Raheem Sterling
+Sergio Agüero
+Steve Mandanda
+Hiroki Sakai
+Álvaro
+Boubacar Kamara
+Leonardo Balerdi
+Morgan Sanson
+Dimitri Payet
+Pape Gueye
+Yuto Nagatomo
+Florian Thauvin
+Valère Germain
+Kevin Strootman
+Darío Benedetto
+Mickaël Cuisance
+Valentin Rongier
+Marley Ake

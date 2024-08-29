@@ -1,0 +1,66 @@
+First team:
+0 0 6 0 0 0 0 2 1 8 0 0 0 0 0
+1 1 1 2 0 1 10 7 10 0 2 0 0 0 0
+0 1 4 0 2 5 0 2 1 9 0 0 0 0 0
+6 0 6 0 0 1 1 35 7 30 0 1 0 3 0
+0 2 3 0 3 0 1 1 0 0 0 0 1 0 0
+0 0 0 0 1 4 0 0 0 0 0 0 0 0 0
+0 1 4 1 2 0 0 0 3 8 0 0 0 0 0
+0 7 0 1 4 2 0 7 11 1 2 1 0 1 0
+3 16 0 27 3 0 2 15 12 3 0 1 0 1 0
+1 8 3 9 3 1 0 10 15 9 2 8 0 0 1
+2 1 8 26 1 2 18 2 1 11 1 4 0 0 0
+0 2 0 0 0 0 0 2 0 0 0 1 1 0 0
+1 0 0 1 1 0 0 0 1 1 4 0 0 1 0
+0 0 0 0 0 0 0 1 1 0 0 2 0 0 0
+0 0 0 2 0 0 0 1 0 0 0 1 0 0 2
+0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+Second team:
+0 5 3 1 1 0 3 2 4 0 5 0 0 0
+0 1 1 5 0 3 0 5 0 13 1 0 3 1
+1 4 2 2 0 0 1 8 12 17 8 0 1 1
+0 2 2 3 2 2 4 10 3 1 4 0 5 3
+1 5 2 4 1 0 1 2 1 4 1 0 0 0
+0 1 0 3 1 1 0 1 0 0 0 0 0 0
+0 1 4 5 2 1 1 7 0 1 0 0 0 2
+0 1 1 8 0 0 2 3 1 1 4 0 2 2
+0 8 8 9 3 0 6 3 6 3 2 0 1 5
+1 1 7 2 1 0 1 3 6 0 0 0 0 0
+5 10 15 2 3 0 0 3 0 0 0 0 1 0
+4 1 5 2 0 0 4 6 2 0 2 0 0 2
+0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 2 0 3 0 0 2 0 6 0 0 0 0 0
+0 2 1 4 0 0 2 1 2 0 1 2 0 1
+Players:
+First team players:
+Samir Handanovič
+Achraf Hakimi
+Roberto Gagliardini
+Stefan de Vrij
+Romelu Lukaku
+Lautaro Martínez
+Ashley Young
+Nicolò Barella
+Milan Škriniar
+Marcelo Brozović
+Alessandro Bastoni
+Alexis Sánchez
+Ivan Perišić
+Christian Eriksen
+Danilo D'Ambrosio
+Matteo Darmian
+Anatolii Trubin
+Dodô
+Taras Stepanenko
+Taison
+Marlos
+Tetê
+Viktor Kovalenko
+Mykola Matviyenko
+Maycon
+Vitão
+Valeriy Bondar
+Davit Khocholava
+Dentinho
+Manor Solomon
+Alan Patrick

@@ -1,0 +1,52 @@
+Second team:
+1 3 4 5 7 8 11 12 15 27 66 9 10 26 PC PA PC PA PC PA PC PA %
+2 2 0 1 3 0 2 5 1 2 0 0 0
+0 0 0 5 4 1 2 0 2 0 0 0 3
+5 4 0 0 1 0 2 1 2 1 0 0 0
+0 1 0 0 1 0 1 1 0 0 0 0 0
+0 5 3 0 3 1 3 1 3 0 0 0 2
+0 2 0 1 1 2 3 4 1 0 0 0 0
+0 0 1 0 1 2 2 8 3 2 0 0 0
+2 5 5 2 2 2 5 10 2 0 0 1 1
+0 0 0 1 0 3 3 6 0 12 0 0 1
+2 2 3 1 2 2 0 1 2 3 0 2 0
+0 1 2 2 0 2 2 9 8 1 0 0 1
+0 0 0 0 0 0 0 1 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 1 1 0
+0 0 0 0 2 1 0 3 0 0 0 1 0
+Players:
+First team players:
+28 2 6 7 8 10 17 25 31 33 46 18 27 77 PC PA PC PA PC PA PC PA %
+Long Medium Short Total
+TP
+To
+From
+Alisson Becker
+Fabinho
+Virgil van Dijk
+Georginio Wijnaldum
+James Milner
+Naby Keïta
+Mohamed Salah
+Joe Gomez
+Alex Oxlade-Chamberlain
+Divock Origi
+Trent Alexander-Arnold
+Roberto Firmino
+Sadio Mané
+Andy Robertson
+Second team players:
+Gaëtan Coucke
+Casper De Norre
+Sebastien Dewaest
+Junya Ito
+Bryan Heynen
+Ally Mbwana Samatta
+Patrik Hrošovský
+Sander Berge
+Joakim Mæhle
+Jhon Lucumí
+Carlos Cuesta
+Paul Onuachu
+Théo Bongonda
+Dieumerci Ndongala

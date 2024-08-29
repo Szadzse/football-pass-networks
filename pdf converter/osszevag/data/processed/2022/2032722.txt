@@ -1,0 +1,69 @@
+First team:
+3 9 0 1 1 1 1 3 5 1 0 0 0 0 0
+1 1 1 4 9 4 4 3 5 7 0 1 0 0 0
+2 6 3 1 10 13 6 16 7 10 6 3 1 0 0
+0 1 2 1 2 2 1 0 0 2 0 0 0 0 0
+0 1 0 1 11 4 2 0 0 22 5 1 0 1 0
+2 8 8 2 17 4 4 4 14 20 6 2 2 0 0
+1 5 7 5 2 6 3 9 3 0 3 4 0 0 0
+1 0 2 2 4 4 1 5 0 2 2 0 0 1 0
+1 2 3 5 1 7 17 6 2 0 0 1 3 0 0
+3 3 18 0 2 10 3 0 1 14 6 1 0 0 0
+2 5 10 1 22 18 2 4 3 13 17 0 2 1 0
+0 0 8 0 8 2 2 2 1 3 17 2 1 2 0
+0 2 1 0 0 3 2 1 1 0 1 4 0 0 0
+1 0 0 0 0 2 0 0 2 0 1 1 0 2 0
+0 0 1 0 0 0 0 0 0 0 1 0 0 1 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Second team:
+0 3 1 0 1 2 0 1 0 4 2 0 0 0 0
+3 1 0 0 1 0 0 0 0 2 0 0 0 0 0
+0 1 2 5 0 6 2 4 6 2 1 2 4 0 0
+0 1 4 3 0 0 1 4 1 7 0 0 0 0 0
+0 0 1 2 3 2 0 4 1 1 0 0 0 0 0
+0 0 2 1 4 3 0 1 0 3 0 0 0 0 0
+0 0 2 4 2 3 0 2 0 3 0 0 0 0 0
+0 1 1 1 0 0 1 1 1 3 0 0 0 0 0
+0 0 9 0 3 1 1 0 2 0 0 0 0 0 0
+0 0 6 3 2 0 0 1 4 5 1 0 0 0 0
+0 1 4 5 0 2 6 1 1 0 0 0 0 2 0
+1 0 1 0 0 0 1 0 0 2 0 0 0 0 0
+1 0 2 0 0 0 0 0 0 1 0 1 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+0 0 1 0 0 0 0 0 0 0 1 1 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Players:
+First team players:
+Alisson Becker
+Fabinho
+Virgil van Dijk
+Sadio Mané
+Mohamed Salah
+Jordan Henderson
+Alex Oxlade-Chamberlain
+Diogo Jota
+Kostas Tsimikas
+Joël Matip
+Trent Alexander-Arnold
+Thiago Alcántara
+Roberto Firmino
+Takumi Minamino
+Divock Origi
+Nathaniel Phillips
+Second team players:
+Jan Oblak
+José María Giménez
+Rodrigo De Paul
+Koke
+João Félix
+Luis Suárez
+Ángel Correa
+Felipe
+Yannick Carrasco
+Mario Hermoso
+Kieran Trippier
+Renan Lodi
+Héctor Herrera
+Matheus Cunha
+Šime Vrsaljko
+Javi Serrano

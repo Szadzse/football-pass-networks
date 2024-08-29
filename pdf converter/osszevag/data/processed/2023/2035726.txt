@@ -1,0 +1,67 @@
+First team:
+1 2 0 6 0 0 0 1 2 0 0 0 0 0 0
+0 0 0 2 0 0 2 1 0 0 0 0 0 0 0
+2 0 2 2 2 0 3 1 0 0 2 3 2 0 0
+0 1 0 0 1 0 0 4 2 1 0 1 0 0 0
+1 0 0 2 0 1 0 1 2 0 0 0 0 0 0
+0 0 0 2 1 3 0 0 0 1 0 0 0 0 0
+1 2 4 2 2 0 2 1 1 1 1 0 0 0 0
+1 0 0 2 2 0 0 0 1 0 0 0 0 0 0
+0 0 0 1 0 0 1 6 2 0 0 1 0 0 0
+1 0 3 4 1 0 2 2 0 3 0 0 0 0 0
+1 0 0 1 2 0 1 0 0 2 0 0 0 0 0
+0 0 4 0 1 0 1 1 1 0 0 0 0 1 0
+0 0 2 0 0 0 0 0 0 1 0 1 1 0 0
+0 0 2 0 0 0 0 1 0 1 0 1 0 1 0
+1 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+Second team:
+0 13 0 0 16 2 0 1 1 0 0 0 3 0
+1 5 1 2 1 0 1 7 9 2 1 0 0 2
+5 14 1 7 33 1 10 8 18 0 1 1 3 1
+0 0 1 2 6 9 5 2 1 5 0 2 1 1
+0 4 7 2 4 2 6 2 2 1 1 2 1 0
+6 1 31 1 7 21 10 2 7 25 0 12 9 3
+2 0 0 18 4 11 10 0 1 11 0 0 0 0
+2 1 13 2 2 9 13 7 3 6 0 0 0 0
+0 5 4 0 4 5 2 4 6 1 0 0 0 0
+4 6 10 2 2 8 1 5 7 1 0 1 2 0
+2 1 7 13 1 8 15 6 0 2 0 7 1 0
+0 0 1 1 0 0 0 0 0 0 0 0 1 1
+0 0 0 1 4 11 0 1 0 1 4 0 0 1
+1 1 8 2 3 6 0 0 0 2 1 0 2 2
+0 1 0 1 1 1 0 0 0 1 0 1 0 4
+Players:
+First team players:
+Jindřich Staněk
+Lukáš Hejda
+Luděk Pernica
+Václav Pilař
+Tomáš Chorý
+Václav Jemelka
+Lukáš Kalvach
+Libor Holík
+Erik Jirka
+Adam Vlkanova
+Modou Ndiaye
+Pavel Bucha
+Milan Havel
+Aleš Čermák
+Adam Kronus
+Fortune Bassey
+Second team players:
+Iñaki Peña
+Héctor Bellerín
+Gerard Piqué
+Ansu Fati
+Ferran Torres
+Marcos Alonso
+Jordi Alba
+Franck Kessie
+Raphinha
+Gavi
+Pablo Torre
+Ousmane Dembélé
+Alejandro Balde
+Marc Casado
+Álvaro Sanz

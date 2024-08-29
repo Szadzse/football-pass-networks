@@ -1,0 +1,69 @@
+First team:
+0 0 0 2 0 0 5 1 0 5 0 0 0 0 0
+1 0 12 5 5 3 13 16 2 4 0 5 1 0 0
+2 1 0 9 7 2 1 1 1 12 9 1 1 0 0
+0 4 3 3 7 5 4 9 2 2 0 0 0 0 0
+1 8 11 2 5 6 17 11 2 10 4 4 4 0 0
+0 7 5 7 7 8 3 2 4 4 0 2 2 3 0
+0 2 3 6 6 6 1 3 6 3 0 0 1 0 0
+4 29 0 4 15 4 1 10 0 15 1 3 0 0 0
+0 13 4 7 7 6 10 9 1 7 0 0 0 0 0
+0 1 2 3 1 1 1 1 2 0 0 0 0 0 0
+1 2 12 0 20 4 2 16 3 0 4 6 0 1 1
+0 0 8 0 1 0 0 0 0 0 2 0 4 1 1
+0 3 2 0 2 8 0 4 0 0 4 0 1 2 0
+0 1 1 1 4 1 1 1 0 0 0 1 0 2 0
+0 1 0 0 1 0 0 0 0 0 0 0 0 2 0
+0 0 0 0 0 0 0 1 0 0 1 0 0 0 0
+Second team:
+1 6 1 7 2 11 0 6 0 2 1 0 0 0 2
+1 2 3 9 0 0 3 8 0 0 0 0 0 0 0
+2 1 5 11 4 8 1 11 1 6 0 0 0 0 0
+0 4 4 6 2 0 2 1 2 2 0 0 0 0 2
+1 12 15 11 0 7 1 12 2 2 0 0 1 1 3
+0 0 2 0 0 2 2 0 2 5 0 0 0 0 0
+11 0 8 1 6 1 1 10 1 13 0 0 0 0 0
+0 3 0 1 4 2 0 0 1 0 0 0 0 0 1
+11 5 5 2 6 0 12 3 1 0 0 0 0 0 5
+0 2 1 2 4 0 1 0 0 1 0 0 0 0 0
+0 0 9 0 0 8 12 0 0 1 0 0 0 0 0
+0 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 1 0 0 0 1 0 0 0 0 0 0
+0 0 0 2 5 0 0 2 3 0 1 0 0 0 1
+Players:
+First team players:
+Odisseas Vlachodimos
+Gilberto
+Alejandro Grimaldo
+David Neres
+Enzo Fernandez
+João Mário
+Rafa Silva
+Nicolás Otamendi
+Florentino Luís
+Gonçalo Ramos
+Morato
+Diogo Gonçalves
+Julian Weigl
+Petar Musa
+Henrique Araújo
+Paulo Bernardo
+Second team players:
+Georgiy Bushchan
+Kostiantyn Vivcharenko
+Serhiy Sydorchuk
+Volodymyr Shepeliev
+Mykola Shaparenko
+Oleksandr Karavaev
+Illia Zabarnyi
+Vitaliy Buyalskiy
+Oleksandr Syrota
+Artem Besedin
+Tomasz Kędziora
+Vladyslav Vanat
+Oleksandr Yatsyk
+Oleksandr Tymchyk
+Anton Tsarenko
+Vladyslav Dubinchak

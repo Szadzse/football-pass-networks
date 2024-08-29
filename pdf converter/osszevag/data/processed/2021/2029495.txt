@@ -1,0 +1,63 @@
+First team:
+1 11 11 10 0 0 2 0 1 2 0 0 0 0
+1 12 2 0 4 4 7 0 7 1 0 0 0 0
+11 17 14 0 11 2 10 0 3 0 0 0 0 0
+4 1 15 15 12 0 3 0 3 1 0 1 0 0
+4 0 1 13 10 3 4 11 0 4 4 4 0 0
+0 4 10 9 24 5 14 10 7 2 2 1 0 0
+0 5 0 0 3 7 7 5 5 1 0 0 1 0
+1 6 7 3 2 13 7 4 5 2 0 1 0 0
+0 1 0 0 6 6 6 1 4 2 1 0 0 0
+2 2 4 5 4 7 4 7 2 1 0 0 0 0
+0 1 0 0 0 6 2 1 1 3 0 0 0 0
+0 0 0 0 0 2 1 1 2 0 0 0 1 0
+0 0 0 0 1 2 0 1 0 0 0 2 1 0
+0 0 0 0 0 1 1 0 0 1 0 1 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Second team:
+6 2 1 4 0 1 2 0 2 1 0 0 1
+1 3 15 15 3 1 0 9 14 2 0 0 1
+4 3 11 12 6 4 1 0 0 10 1 3 0
+1 21 11 8 12 3 1 10 8 5 1 0 5
+5 11 9 12 4 4 0 2 2 1 0 0 1
+2 1 7 10 1 9 1 4 1 8 0 2 2
+0 1 2 1 1 5 4 3 2 8 0 0 0
+0 0 0 4 0 1 3 1 0 0 0 0 0
+0 8 0 11 1 2 1 4 19 0 2 0 2
+1 11 0 12 0 1 0 1 21 1 1 0 1
+0 1 11 5 3 11 6 0 0 0 0 0 0
+0 0 0 0 0 1 0 0 2 3 0 0 0
+0 0 1 2 0 1 0 0 0 0 0 1 1
+0 0 2 2 0 4 0 0 0 0 0 3 2
+Players:
+First team players:
+Thibaut Courtois
+Dani Carvajal
+Éder Militão
+Raphaël Varane
+Nacho
+Toni Kroos
+Karim Benzema
+Luka Modrić
+Marcelo
+Casemiro
+Vinícius Júnior
+Eden Hazard
+Marco Asensio
+Álvaro Odriozola
+Rodrygo
+Second team players:
+Edouard Mendy
+Antonio Rüdiger
+Andreas Christensen
+Jorginho
+Thiago Silva
+N'Golo Kanté
+Christian Pulišić
+Timo Werner
+Mason Mount
+Ben Chilwell
+César Azpilicueta
+Hakim Ziyech
+Reece James
+Kai Havertz

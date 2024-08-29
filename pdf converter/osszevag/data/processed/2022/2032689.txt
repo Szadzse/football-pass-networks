@@ -1,0 +1,59 @@
+First team:
+0 1 8 1 1 0 3 0 6 1 0
+2 3 6 1 8 0 7 0 0 1 0
+1 5 4 1 3 0 5 2 2 1 0
+5 10 6 4 3 2 2 2 2 1 0
+4 1 2 5 2 3 1 2 4 1 0
+1 5 1 0 0 4 2 1 1 5 0
+0 0 2 1 6 2 6 6 7 7 0
+0 3 4 2 2 9 6 3 5 4 0
+0 1 5 0 0 4 7 6 8 2 0
+0 0 0 0 2 0 20 5 4 1 0
+0 3 1 1 1 9 4 2 4 1 0
+0 0 0 0 0 0 0 0 0 0 0
+Second team:
+0 13 8 0 0 0 0 1 1 0 0 3 0 1
+1 0 12 4 2 0 0 11 0 15 0 2 3 0
+9 0 2 4 9 9 7 9 8 3 0 2 4 1
+6 8 10 2 7 2 1 16 2 6 0 6 2 1
+0 4 0 0 3 3 2 1 0 1 0 0 0 0
+0 6 6 8 2 8 7 9 5 4 0 0 0 0
+0 1 1 3 3 3 3 4 3 16 1 2 4 2
+1 0 6 4 0 2 3 2 5 1 0 0 0 0
+2 18 9 10 4 9 4 1 1 16 1 4 5 1
+2 0 1 3 0 4 5 2 3 0 0 4 3 0
+0 6 1 4 2 7 14 0 10 0 0 2 6 0
+0 0 0 0 0 0 1 0 0 0 0 0 1 0
+0 0 4 5 0 0 2 0 7 2 4 1 8 0
+0 4 4 2 0 0 6 0 7 1 5 0 6 1
+1 0 2 0 0 0 2 0 0 0 2 1 0 1
+Players:
+First team players:
+Simon Mignolet
+Eduard Sobol
+Éder Balanta
+Stanley Nsoki
+Jack Hendry
+Noa Lang
+Kamal Sowah
+Hans Vanaken
+Mats Rits
+Clinton Mata
+Charles De Ketelaere
+Faitout Maouassa
+Second team players:
+Keylor Navas
+Achraf Hakimi
+Presnel Kimpembe
+Marquinhos
+Kylian Mbappé
+Leandro Paredes
+Neymar
+Georginio Wijnaldum
+Ander Herrera
+Abdou Diallo
+Lionel Messi
+Mauro Icardi
+Danilo
+Julian Draxler
+Nuno Mendes

@@ -1,0 +1,50 @@
+Second team:
+1 2 3 5 8 9 10 15 17 20 21 11 22 PC PA PC PA PC PA PC PA %
+10 4 1 0 1 4 0 9 4 0 2 0 0
+5 5 1 0 2 2 6 1 4 5 0 1 1
+4 4 3 0 1 1 3 10 6 2 0 1 0
+0 1 2 3 11 0 5 1 2 1 0 0 0
+0 0 0 1 5 0 1 0 2 0 0 1 0
+0 2 0 7 9 4 5 4 10 3 2 0 0
+1 0 1 2 0 7 1 12 5 1 1 0 0
+0 1 2 1 2 3 2 0 2 6 0 1 3
+5 0 4 2 1 5 15 2 10 0 1 0 0
+1 3 3 3 2 16 6 5 5 7 2 0 1
+0 1 1 4 2 3 1 3 0 2 0 0 0
+1 0 0 0 2 1 2 1 1 1 0 0 1
+0 0 0 0 1 0 0 0 0 1 0 0 0
+0 2 0 0 0 0 0 0 0 0 0 0 0
+Players:
+First team players:
+1 2 6 7 10 12 18 23 37 77 87 5 16 33 PC PA PC PA PC PA PC PA %
+Long Medium Short Total
+TP
+To
+From
+Marc-André ter Stegen
+Nélson Semedo
+Gerard Piqué
+Sergio Busquets
+Arthur
+Luis Suárez
+Lionel Messi
+Clément Lenglet
+Antoine Griezmann
+Sergi Roberto
+Frenkie de Jong
+Ousmane Dembélé
+Arturo Vidal
+Samir Handanovič
+Diego Godín
+Stefan de Vrij
+Alexis Sánchez
+Lautaro Martínez
+Stefano Sensi
+Kwadwo Asamoah
+Nicolò Barella
+Milan Škriniar
+Marcelo Brozović
+Antonio Candreva
+Roberto Gagliardini
+Matteo Politano
+Danilo D'Ambrosio

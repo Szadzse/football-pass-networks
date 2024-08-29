@@ -1,0 +1,58 @@
+First team:
+12 2 1 0 2 0 2 6 13 2 0 0 0 0
+16 21 2 0 14 5 1 0 5 7 4 1 0 0
+5 13 7 2 0 8 1 1 19 2 3 1 0 0
+1 5 2 1 6 3 1 1 4 7 0 0 0 0
+0 1 0 1 2 4 5 5 1 6 0 0 0 0
+1 21 1 4 2 2 0 0 0 5 1 1 0 0
+4 4 12 4 5 2 4 6 8 1 1 0 0 0
+0 0 0 0 8 2 5 3 1 1 0 0 0 0
+3 0 0 0 1 0 8 5 17 1 0 1 1 0
+7 3 16 3 7 0 8 4 24 2 0 1 0 0
+0 3 1 5 7 5 3 3 1 0 0 2 0 0
+0 1 2 0 0 5 1 1 1 1 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 1 3 1 1
+0 0 0 0 0 0 0 0 0 0 0 0 1 0
+0 0 0 0 0 0 0 0 0 0 0 0 1 0
+Second team:
+0 0 1 0 0 2 10 5 3 3 0
+1 5 2 5 1 9 6 5 8 6 3
+0 2 1 5 1 4 0 0 2 2 0
+0 2 0 8 7 0 0 3 2 0 1
+0 4 2 2 5 2 2 2 4 2 0
+0 3 0 4 2 2 0 3 3 0 3
+2 5 5 3 5 2 1 0 0 6 0
+4 10 1 1 3 2 3 14 11 10 0
+5 7 0 5 2 7 0 14 10 0 0
+0 14 4 9 6 3 6 9 12 0 1
+0 4 3 2 2 0 10 12 0 2 0
+0 0 0 1 0 1 1 0 1 2 0
+Players:
+First team players:
+Antonio Adán
+Matheus Reis
+Sebastián Coates
+Hidemasa Morita
+Marcus Edwards
+Nuno Santos
+Manuel Ugarte
+Francisco Trincão
+Pedro Porro
+Gonçalo Inácio
+Pedro Gonçalves
+Sotirios Alexandropoulos
+Paulinho
+Arthur Gomes
+Ricardo Esgaio
+Hugo Lloris
+Pierre-Emile Højbjerg
+Heung-Min Son
+Richarlison
+Harry Kane
+Emerson
+Ivan Perišić
+Eric Dier
+Cristian Romero
+Rodrigo Bentancur
+Ben Davies
+Dejan Kulusevski

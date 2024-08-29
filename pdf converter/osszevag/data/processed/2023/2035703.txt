@@ -1,0 +1,69 @@
+First team:
+2 3 0 1 2 4 0 1 0 0 0 0 0 0 0
+1 2 5 5 7 4 6 4 0 0 0 0 0 2 3
+2 4 0 1 0 0 0 3 2 8 0 0 0 1 0
+1 7 0 7 3 2 12 1 3 6 0 0 0 1 0
+1 12 3 8 5 2 5 2 1 3 0 0 1 1 1
+0 3 0 3 3 2 7 0 2 0 0 0 0 0 0
+0 0 0 2 3 1 5 0 1 0 0 0 0 1 0
+0 3 1 7 3 4 4 1 3 4 1 0 0 0 2
+3 6 4 2 4 1 1 1 0 0 0 0 0 0 1
+0 0 0 2 0 0 2 2 0 2 0 0 0 0 0
+0 0 3 8 7 2 2 1 0 3 0 0 0 0 0
+0 0 0 0 0 0 0 2 0 0 0 1 0 0 0
+0 0 0 0 1 0 0 0 0 0 0 0 1 1 0
+0 0 0 0 0 0 0 1 0 0 0 1 0 1 0
+0 1 1 1 0 0 0 2 0 0 0 1 2 0 1
+0 0 0 3 0 0 1 0 0 0 0 1 0 0 0
+Second team:
+0 0 0 3 1 6 0 5 1 1 0 0 1 0 0
+0 2 0 7 0 5 1 0 2 3 1 1 1 0 0
+0 3 1 1 1 1 1 0 3 0 0 0 0 0 0
+0 1 2 3 1 2 1 0 0 1 0 0 1 0 0
+0 3 4 4 2 3 2 2 5 5 5 9 1 1 3
+3 0 2 2 2 3 0 9 4 4 5 1 7 1 0
+2 5 0 3 7 2 0 10 7 2 1 5 1 0 1
+0 0 2 0 0 1 0 0 0 1 0 0 0 0 0
+2 0 2 2 2 7 8 0 7 0 4 6 4 0 0
+0 5 0 3 6 7 2 0 8 2 3 0 2 2 1
+0 6 3 0 2 5 1 1 1 1 0 3 0 0 0
+1 3 0 1 6 3 8 0 1 4 0 3 4 1 4
+0 1 1 1 3 1 0 0 1 3 1 5 1 0 2
+0 0 0 0 2 5 1 0 0 4 0 5 1 2 1
+0 0 0 1 0 1 0 0 2 0 0 0 0 2 0
+0 0 0 0 1 0 2 0 0 0 0 3 1 0 1
+Players:
+First team players:
+Joshua Cohen
+Daniel Sundgren
+Sean Goldberg
+Ali Mohamed
+Neta Lavi
+Omer Atzili
+Frantzdy Pierrot
+Tjaronn Chery
+Dylan Batubinsika
+Din David
+Pierre Cornud
+Mavis Tchibota
+Sun Menachem
+Nikita Rukavytsya
+Mohammad Abu Fani
+Abdoulaye Seck
+Second team players:
+Wojciech Szczęsny
+Danilo
+Weston McKennie
+Dušan Vlahović
+Juan Cuadrado
+Alex Sandro
+Leonardo Bonucci
+Ángel Di María
+Daniele Rugani
+Adrien Rabiot
+Leandro Paredes
+Manuel Locatelli
+Arkadiusz Milik
+Filip Kostić
+Moise Kean
+Matìas Soulè

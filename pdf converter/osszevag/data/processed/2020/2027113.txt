@@ -1,0 +1,52 @@
+Second team:
+1 5 6 7 8 14 20 22 26 44 99 9 11 70 PC PA PC PA PC PA PC PA %
+0 4 0 0 0 1 4 4 1 3 0 0 0
+2 0 0 2 13 2 2 4 0 5 0 2 0
+8 0 3 4 0 4 1 4 10 6 0 0 0
+0 1 2 3 2 2 2 2 8 0 0 0 2
+0 0 0 2 1 8 2 2 3 0 0 0 0
+0 5 0 2 3 4 2 9 0 3 0 1 1
+0 2 5 10 6 8 2 13 11 4 0 1 5
+0 3 0 2 1 2 0 3 2 0 0 2 2
+0 5 9 2 1 7 16 0 8 9 3 2 4
+5 1 5 6 0 1 15 1 5 3 0 0 4
+4 5 5 0 0 2 3 1 13 1 0 0 0
+0 0 0 0 0 1 0 0 1 0 0 0 0
+0 1 0 0 0 0 1 2 5 0 0 0 1
+0 1 0 2 0 1 0 3 1 3 0 0 2
+Players:
+First team players:
+26 2 6 7 10 11 17 18 25 31 33 5 23 27 PC PA PC PA PC PA PC PA %
+Long Medium Short Total
+TP
+To
+From
+Alex Meret
+Allan
+Mário Rui
+José Callejón
+Fabián Ruiz
+Dries Mertens
+Piotr Zieliński
+Giovanni Di Lorenzo
+Kalidou Koulibaly
+Kostas Manolas
+Arkadiusz Milik
+Fernando Llorente
+Hirving Lozano
+Gianluca Gaetano
+Second team players:
+Maarten Vandevoordt
+Casper De Norre
+Sebastien Dewaest
+Junya Ito
+Ally Mbwana Samatta
+Joseph Paintsil
+Patrik Hrošovský
+Paul Onuachu
+Sander Berge
+Joakim Mæhle
+Jhon Lucumí
+Neto Borges
+Ianis Hagi
+Théo Bongonda

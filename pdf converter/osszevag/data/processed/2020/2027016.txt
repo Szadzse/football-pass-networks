@@ -1,0 +1,52 @@
+Second team:
+1 4 6 7 8 9 18 20 25 26 27 14 28 29 PC PA PC PA PC PA PC PA %
+0 5 3 1 4 0 0 0 2 1 2 0 0
+0 3 0 0 3 1 0 0 1 1 0 0 0
+0 0 0 0 1 0 1 1 0 4 1 0 0
+6 2 1 8 0 2 0 0 3 1 0 0 1
+3 4 1 2 1 2 4 3 0 1 0 0 1
+1 5 4 0 2 5 1 0 2 0 1 0 2
+0 1 1 1 2 4 0 9 1 2 0 1 0
+1 1 0 1 0 3 4 1 2 2 0 0 0
+0 0 1 0 0 1 6 0 3 1 0 0 0
+2 0 0 3 0 0 1 0 6 0 0 0 0
+0 0 2 0 0 3 2 0 2 0 0 0 0
+0 0 1 0 0 0 1 0 1 1 0 0 2
+0 0 0 0 1 0 0 0 0 0 0 0 0
+1 0 2 0 0 1 0 0 0 0 0 0 0
+Players:
+First team players:
+88 2 14 15 17 20 25 26 42 77 80 10 11 18 PC PA PC PA PC PA PC PA %
+Long Medium Short Total
+TP
+To
+From
+Alexander Schlager
+Emanuel Pogatetz
+Philipp Wiesinger
+Rene Renner
+Peter Michorl
+Klauss
+Gernot Trauner
+Samuel Tetteh
+James Holland
+Reinhold Ranftl
+Thomas Goiginger
+Yusuf Otubanjo
+Dominik Frieser
+Marko Raguz
+Second team players:
+Simon Mignolet
+Eduard Sobol
+David Okereke
+Matej Mitrović
+Simon Deli
+Hans Vanaken
+Ruud Vormer
+Mats Rits
+Emmanuel Bonaventure
+Clinton Mata
+Loïs Openda
+Rezaei Kaveh
+Krépin Diatta
+Federico Ricca

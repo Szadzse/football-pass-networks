@@ -1,0 +1,52 @@
+Second team:
+1 3 4 5 7 8 9 11 12 23 29 6 17 20 PC PA PC PA PC PA PC PA %
+0 7 0 4 1 0 9 1 2 2 0 5 0
+1 1 3 2 3 1 6 0 0 5 1 0 2
+1 1 0 2 2 1 8 1 3 4 0 0 0
+0 6 0 3 4 4 1 3 10 3 3 0 3
+0 2 0 2 5 0 0 2 2 3 2 0 2
+0 0 1 4 6 2 0 3 2 3 0 0 3
+0 1 0 3 1 1 0 2 1 3 0 0 0
+10 16 5 5 1 1 2 0 0 15 0 7 0
+0 2 0 3 3 2 2 1 2 5 0 0 0
+0 0 3 13 1 2 5 0 6 2 1 5 2
+2 7 4 1 3 5 1 13 2 7 3 6 4
+0 0 0 2 2 2 0 2 0 2 0 0 0
+3 1 0 2 0 0 0 8 0 2 4 1 6
+0 1 0 2 3 2 0 3 0 1 5 2 2
+Players:
+First team players:
+1 3 5 8 9 10 11 16 18 22 31 20 26 27 PC PA PC PA PC PA PC PA %
+Long Medium Short Total
+TP
+To
+From
+Anthony Lopes
+Joachim Andersen
+Rafael
+Jason Denayer
+Martin Terrier
+Houssem Aouar
+Moussa Dembélé
+Memphis Depay
+Thiago Mendes
+Kenny Tete
+Lucas Tousart
+Marcelo
+Jeff Reine-Adélaïde
+Fernando Marçal
+Second team players:
+Péter Gulácsi
+Marcelo Saracchi
+Dayot Upamecano
+Amadou Haidara
+Yussuf Poulsen
+Emil Forsberg
+Timo Werner
+Lukas Klostermann
+Christopher Nkunku
+Nordi Mukiele
+Diego Demme
+Matheus Cunha
+Ethan Ampadu
+Konrad Laimer

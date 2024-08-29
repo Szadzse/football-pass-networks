@@ -1,0 +1,52 @@
+Second team:
+1 3 4 5 8 9 10 11 14 19 27 7 20 35 PC PA PC PA PC PA PC PA %
+2 2 1 1 3 2 0 6 0 1 0 0 0
+4 1 10 14 16 1 4 1 6 2 1 2 1
+3 0 11 3 1 0 7 16 3 6 0 2 3
+0 9 10 12 2 2 3 1 3 4 1 8 0
+0 11 0 16 1 2 4 0 5 4 1 2 0
+2 19 9 6 8 0 0 13 0 1 0 3 2
+0 0 0 2 2 0 0 1 2 2 0 0 0
+0 2 7 4 2 0 1 0 2 3 0 0 0
+5 3 16 1 0 17 0 2 6 1 1 2 3
+0 5 5 5 5 7 1 2 7 1 0 1 0
+1 3 6 3 1 4 0 2 3 4 0 0 0
+0 0 0 3 0 1 0 0 0 0 0 1 2
+0 1 3 3 4 2 1 0 3 3 0 0 3
+0 1 4 1 0 2 0 0 1 1 0 1 4
+Players:
+First team players:
+1 2 5 7 13 15 17 23 26 27 28 10 19 32 PC PA PC PA PC PA PC PA %
+Long Medium Short Total
+TP
+To
+From
+Keylor Navas
+Presnel Kimpembe
+Thilo Kehrer
+Marquinhos
+Leandro Paredes
+Edinson Cavani
+Neymar
+Ángel Di María
+Juan Bernat
+Pablo Sarabia
+Idrissa Gueye
+Kylian Mbappé
+Layvin Kurzawa
+Tanguy Kouassi
+Second team players:
+Roman Bürki
+Dan-Axel Zagadou
+Achraf Hakimi
+Jadon Sancho
+Raphaël Guerreiro
+Mats Hummels
+Erling Braut Haaland
+Thorgan Hazard
+Łukasz Piszczek
+Emre Can
+Axel Witsel
+Mario Götze
+Julian Brandt
+Giovanni Reyna

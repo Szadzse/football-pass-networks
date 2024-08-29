@@ -1,0 +1,69 @@
+First team:
+4 2 1 0 1 0 2 6 2 0 0 0 0 0 0
+6 7 2 1 3 3 11 9 11 0 0 0 0 0 0
+0 6 6 7 3 1 5 3 5 1 0 2 2 0 0
+0 0 5 3 1 1 1 1 4 4 0 3 1 0 0
+0 2 0 5 2 6 3 5 5 6 0 1 2 0 0
+1 2 2 1 5 3 6 1 0 1 0 0 0 0 0
+0 0 2 1 2 1 0 5 3 2 0 0 0 0 0
+2 4 6 4 3 5 1 1 8 1 0 0 0 0 1
+4 17 5 1 5 0 4 0 8 5 1 4 0 0 0
+1 10 11 4 7 8 3 9 5 1 0 0 3 0 0
+0 0 0 2 2 0 4 2 0 3 0 1 0 1 0
+0 1 0 0 0 0 0 0 2 1 0 1 0 0 0
+0 0 1 1 1 0 0 0 4 4 1 2 2 0 0
+0 1 1 0 0 0 0 0 1 1 0 0 3 1 1
+0 0 0 0 0 0 0 0 0 1 0 0 0 0 1
+0 0 0 2 0 0 0 1 0 0 0 0 0 0 0
+Second team:
+8 3 1 0 0 1 8 13 0 0 0 0 0 1 0
+12 4 1 0 1 14 3 16 0 7 2 0 0 0 2
+0 8 2 1 6 6 2 3 1 3 3 1 0 0 2
+0 1 3 0 2 6 1 0 0 2 1 0 0 0 0
+0 0 1 0 3 1 2 0 1 2 0 0 0 0 0
+1 5 5 3 3 1 8 7 2 4 0 0 0 0 0
+0 7 13 4 1 1 0 1 0 3 1 0 1 0 7
+4 0 4 2 2 4 0 3 5 2 1 1 0 1 0
+11 19 5 0 0 2 2 9 2 1 0 0 0 4 2
+1 0 0 2 0 3 0 1 1 0 0 0 0 0 0
+2 5 2 1 3 6 4 2 7 1 1 1 0 0 1
+0 0 2 2 0 0 1 2 1 0 1 1 0 0 6
+0 0 2 0 0 0 0 1 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+3 0 1 0 0 0 1 0 3 0 2 0 0 0 3
+0 0 1 2 0 0 6 2 1 0 2 2 1 0 2
+Players:
+First team players:
+Dean Henderson
+Eric Bailly
+Juan Mata
+Mason Greenwood
+Jesse Lingard
+Amad Diallo
+Luke Shaw
+Aaron Wan-Bissaka
+Nemanja Matić
+Donny van de Beek
+Anthony Elanga
+Tom Heaton
+Teden Mengi
+Shola Shoretire
+Charlie Savage
+Zidane Iqbal
+Second team players:
+Guillaume Faivre
+Mohamed Ali Camara
+Nicolas Moumi Ngamaleu
+Meschack Elia
+Jordan Siebatcheu
+Michel Aebischer
+Quentin Maceiras
+Jordan Lefort
+Fabian Lustenberger
+Fabian Rieder
+Christopher Martins Pereira
+Vincent Sierro
+Wilfried Kanga
+Nico Maier
+Sandro Lauper
+Silvan Hefti

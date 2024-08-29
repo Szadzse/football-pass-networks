@@ -1,0 +1,51 @@
+Second team:
+1 5 6 9 10 12 18 33 37 77 87 16 19 23 PC PA PC PA PC PA PC PA %
+7 1 0 0 1 4 3 6 2 0 1 0 2
+5 1 5 2 6 0 9 3 3 3 0 0 1
+1 0 1 4 6 2 0 2 0 6 0 1 0
+1 1 4 4 3 0 7 2 1 3 1 0 0
+0 0 0 4 1 0 1 0 0 2 2 0 0
+2 5 5 4 3 1 5 6 5 5 0 0 1
+3 2 1 3 0 4 0 4 2 1 0 1 0
+0 2 0 5 3 5 0 3 2 4 3 1 0
+5 5 5 1 0 9 7 3 3 1 0 1 0
+0 2 3 0 2 7 2 3 4 3 0 0 0
+0 4 2 5 0 2 0 3 1 4 5 0 0
+0 1 0 3 2 0 0 1 0 0 2 0 0
+0 0 0 2 0 0 0 0 0 0 0 0 1
+0 0 1 0 0 0 1 0 0 0 0 0 1
+Players:
+First team players:
+1 2 5 7 9 10 15 18 22 27 28 12 17 29 PC PA PC PA PC PA PC PA %
+Long Medium Short Total
+TP
+To
+From
+Samir Handanovič
+Roberto Gagliardini
+Stefan de Vrij
+Romelu Lukaku
+Lautaro Martínez
+Stefano Sensi
+Kwadwo Asamoah
+Danilo D'Ambrosio
+Milan Škriniar
+Marcelo Brozović
+Antonio Candreva
+Matteo Politano
+Valentino Lazaro
+Nicolò Barella
+Ondřej Kolář
+David Hovorka
+Vladimír Coufal
+Nicolae Stanciu
+Peter Olayinka
+Josef Hušbauer
+Ondřej Kúdela
+Jan Bořil
+Tomáš Souček
+Ibrahim Traoré
+Lukáš Masopust
+Jaroslav Zelený
+Lukáš Provod
+Abdulla Yusuf Helal
